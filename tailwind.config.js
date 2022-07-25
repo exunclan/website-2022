@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require("tailwindcss/defaultTheme");
+
 module.exports = {
   content: [
     "./pages/**/*.{js,jsx,ts,tsx}",
@@ -10,6 +12,9 @@ module.exports = {
         primary: "#2977F5",
         accent: "#456484",
         "btn-text": "#EEF4FF",
+      },
+      fontFamily: {
+        sans: ["SF Pro", ...defaultTheme.fontFamily.sans],
       },
     },
   },

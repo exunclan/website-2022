@@ -1,3 +1,42 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("fonts/SF-Pro.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("fonts/SF-Pro.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("fonts/SF-Pro.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("fonts/SF-Pro.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("fonts/SF-Pro.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+body {
+  font-family: "SF Pro", sans-serif;
+}
