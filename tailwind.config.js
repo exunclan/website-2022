@@ -11,6 +11,7 @@ module.exports = {
       colors: {
         primary: "#2977F5",
         accent: "#456484",
+        "accent-dark": "#456484",
         "btn-text": "#EEF4FF",
       },
       fontFamily: {
