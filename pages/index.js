@@ -1,4 +1,5 @@
 import Head from "next/head";
+import About from "../components/home/About";
 import Hero from "../components/home/Hero";
 import Sponsors from "../components/home/Sponsors";
 
@@ -12,6 +13,7 @@ export default function Home() {
       </Head>
       <Hero />
       <Sponsors />
+      <About />
     </div>
   );
 }
