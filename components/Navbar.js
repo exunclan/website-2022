@@ -45,7 +45,15 @@ export default function Navbar() {
   return (
     <div className="flex justify-center py-4 px-12 shadow-[0_-8px_35px_0_rgba(41,119,245,0.26)]">
       <div className="flex justify-between items-center text-lg font-medium text-accent max-w-[1400px] w-full lg:justify-evenly">
-        <Image src="/logo.png" alt="Logo" width={170} height={70} />
+        <Link href="/">
+          <Image
+            src="/logo.png"
+            alt="Logo"
+            width={170}
+            height={70}
+            className="cursor-pointer"
+          />
+        </Link>
         {links.map(({ label, href }) => (
           <a key={label} className="hidden lg:inline-block">
             <Link href={href}>

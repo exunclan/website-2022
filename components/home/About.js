@@ -1,9 +1,7 @@
-import Image from "next/image";
-
-export default function About() {
+export default function About({ aboutRef }) {
   return (
     <>
-      <div className="flex justify-between mt-24">
+      <div className="flex justify-between mt-24" ref={aboutRef}>
         <div>
           <h2 className="text-4xl text-primary font-semibold">About Us</h2>
           <div className="text-lg text-accent mt-12 md:mr-3 lg:mr-12">

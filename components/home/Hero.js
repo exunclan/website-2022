@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function Hero() {
+export default function Hero({ scrollToAboutRef }) {
   return (
     <div className="w-full flex flex-col-reverse md:flex-row justify-between items-center py-40 px-2">
       <div className="flex flex-col items-center md:items-start">
@@ -9,7 +9,7 @@ export default function Hero() {
           <br /> 30 years of
           <br /> <span className="text-primary">Exun</span>
         </h1>
-        <button className="button mt-5 flex">
+        <button className="button mt-5 flex" onClick={scrollToAboutRef}>
           Read More
           <svg
             xmlns="http://www.w3.org/2000/svg"
