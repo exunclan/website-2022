@@ -13,6 +13,7 @@ module.exports = {
         accent: "#42587B",
         "accent-dark": "#456484",
         "btn-text": "#EEF4FF",
+        "light-input": "#E0ECFF",
       },
       fontFamily: {
         sans: ["SF Pro", ...defaultTheme.fontFamily.sans],
