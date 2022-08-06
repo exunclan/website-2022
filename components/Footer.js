@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="flex items-center justify-center py-4 text-accent flex-col text-sm sm:text-xs text-center px-2 border-t border-accent/30 mt-4">
+    <footer className="flex flex-col items-center justify-center px-2 py-4 mt-4 text-sm text-center border-t text-accent sm:text-xs border-accent/30">
       <div className="flex mb-3">
         <a
           href="https://facebook.com/ExunClan"

@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero({ scrollToAboutRef }) {
   return (
-    <div className="w-full flex flex-col-reverse md:flex-row justify-between items-center py-40 px-2">
+    <div className="w-full flex flex-col-reverse md:flex-row justify-between items-center py-20 px-2">
       <div className="flex flex-col items-center md:items-start">
         <h1 className="text-5xl md:text-6xl mt-6 md:mt-0 text-accent font-semibold leading-tight text-center md:text-left">
           Celebrating
