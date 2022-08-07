@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import ECard from "../ECard";
+import HeadingWithIllustration from "../HeadingWithIllustration";
 
 export default function ResourceDocs({ resources }) {
   const [showAll, setShowAll] = useState(false);
@@ -22,17 +23,8 @@ export default function ResourceDocs({ resources }) {
 
   return (
     <div>
-      <div className="relative flex justify-between items-center">
-        <h2 className="text-3xl font-semibold md:text-4xl text-accent">
-          Check These Out!
-        </h2>
-        <img
-          src="/resources-illustration-1.png"
-          alt="Illustration"
-          className="absolute left-[720px] h-[70px]"
-        />
-      </div>
-      <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 gap-6">
+      <HeadingWithIllustration title="Check These Out!" />
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {_resources.map((resource, i) => (
           <ECard
             bgColor="white"

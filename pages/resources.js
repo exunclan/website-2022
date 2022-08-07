@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Hero from "../components/resources/Hero";
+import ResourcesHeader from "../components/resources/ResourcesHeader";
 import QuickTips from "../components/resources/QuickTips";
 import ResourceDocs from "../components/resources/ResourceDocs";
 import { resources, quickTips } from "../data/resources";
@@ -9,7 +9,7 @@ export default function Resources() {
 
   return (
     <>
-      <Hero query={query} setQuery={setQuery} />
+      <ResourcesHeader query={query} setQuery={setQuery} />
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
         <ResourceDocs
           resources={resources.filter(({ name }) =>

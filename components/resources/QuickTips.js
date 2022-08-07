@@ -1,19 +1,11 @@
 import ECard from "../ECard";
+import HeadingWithIllustration from "../HeadingWithIllustration";
 
 export default function QuickTips({ quickTips }) {
   return (
     <div>
-      <div className="relative flex justify-between items-center mt-12">
-        <h2 className="text-3xl font-semibold md:text-4xl text-accent">
-          Quick Tips
-        </h2>
-        <img
-          src="/resources-illustration-1.png"
-          alt="Illustration"
-          className="absolute left-[720px] h-[70px]"
-        />
-      </div>
-      <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 gap-6">
+      <HeadingWithIllustration title="Quick Tips" />
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {quickTips.map((resource, i) => (
           <ECard
             bgColor="#385B7E"
