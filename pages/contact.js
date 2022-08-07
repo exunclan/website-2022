@@ -2,8 +2,6 @@ import PageHeader from "../components/PageHeader";
 import contacts from "../data/contacts.json";
 import PersonCard from "../components/PersonCard";
 
-console.log(contacts);
-
 export default function Contact() {
   return (
     <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
