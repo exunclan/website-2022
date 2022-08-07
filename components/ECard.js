@@ -13,7 +13,7 @@ export default function ECard({
       style={{ backgroundColor: bgColor }}
     >
       <div className="flex justify-center w-full rounded-t-lg p-4 h-auto w-11/12 lg:rounded-none lg:rounded-l-lg">
-        <img className="object-cover" src={image} alt="" className="m-12" />
+        <img className="m-12" src={image} alt="" />
       </div>
       <div className="flex flex-col justify-evenly py-8 pl-12 pr-6 leading-normal bg-[#F4F8FF] h-full lg:w-[150%]">
         <h5 className="mb-2 text-xl font-semibold tracking-tight text-accent">
