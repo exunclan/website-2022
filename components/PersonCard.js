@@ -10,7 +10,13 @@ export default function PersonCard({ name, subtitle, role }) {
         </h5>
       )}
       <h5 className="mb-2 text-lg font-semibold tracking-wider text-accent-dark mt-3">
-        {role}
+        {role.includes("@") ? (
+          <a href={`mailto:${role}`} target="_blank" rel="noreferrer">
+            {role}
+          </a>
+        ) : (
+          role
+        )}
       </h5>
     </div>
   );
