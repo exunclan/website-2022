@@ -70,7 +70,14 @@ export default function Navbar() {
             </Link>
           </a>
         ))}
-        <button className="button hidden lg:inline-block">ln(exun)</button>
+        <a
+          href="//lnexun.com"
+          target="_blank"
+          rel="noreferrer"
+          className="button hidden lg:inline-block"
+        >
+          ln(exun)
+        </a>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-6 w-6 inline-block lg:hidden cursor-pointer"
