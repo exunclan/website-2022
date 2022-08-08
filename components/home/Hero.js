@@ -27,7 +27,13 @@ export default function Hero({ scrollToAboutRef }) {
           </svg>
         </button>
       </div>
-      <Image src="/hero.png" width={800} height={500} alt="Hero Image" />
+      <Image
+        className="z-[1]"
+        src="/hero.png"
+        width={800}
+        height={500}
+        alt="Hero Image"
+      />
     </div>
   );
 }

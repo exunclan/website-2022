@@ -40,6 +40,7 @@
 body {
   font-family: "SF Pro", sans-serif;
   overflow-x: hidden;
+  width: 100%;
 }
 
 .button {

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const links = [
   {
@@ -41,6 +41,10 @@ const links = [
 export default function Navbar() {
   const [showMobile, setShowMobile] = useState(false);
   const router = useRouter();
+
+  useEffect(() => {
+    setShowMobile(false);
+  }, []);
 
   return (
     <div className="flex justify-center py-4 px-12 shadow-[0_-8px_35px_0_rgba(41,119,245,0.26)]">
@@ -106,7 +110,7 @@ export default function Navbar() {
 
 const MobileNavbar = ({ currentRoute, close }) => {
   return (
-    <div className="fixed top-0 left-0 h-screen w-full bg-primary/75">
+    <div className="z-[2] fixed top-0 left-0 h-screen w-full bg-primary/75">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         className="h-8 w-8 absolute top-9 right-12 text-white cursor-pointer"
