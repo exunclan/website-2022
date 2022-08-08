@@ -11,14 +11,13 @@ export default function HeadingWithIllustration({
       </h2>
       <motion.img
         viewport={{ once: true }}
-        // initial={{ transform: "translate(720px, 0px)" }}
-        // whileInView={{ transform: "translate(0px, 0px)" }}
-        initial={{ x: 600 }}
-        whileInView={{ x: 0 }}
+        initial={{ transform: "translate(600px, 0px)" }}
+        whileInView={{ transform: "translate(0px, 0px)" }}
+        // whileInView={{ x: 0 }}
         transition={{ duration: 0.5 }}
         src={illustration}
         alt="Illustration"
-        className="absolute right-0 h-[70px]"
+        className="absolute right-0 w-[70%] sm:w-[60%] lg:w-[50%]"
       />
     </div>
   );
