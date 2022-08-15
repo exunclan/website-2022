@@ -38,7 +38,7 @@ export default function ResourceDocs({ resources }) {
         ))}
       </div>
       <a
-        className="text-left w-full flex justify-end mt-6 text-accent"
+        className="text-left w-full flex justify-end mt-6 text-accent cursor-pointer"
         target="_blank"
         rel="noreferrer"
         onClick={() => showAllResources(!showAll)}
