@@ -27,7 +27,9 @@ export default function Fireside2020() {
           <h3 className="mt-4 text-2xl font-bold text-accent-dark">
             Saif Hasan
           </h3>
-          <p className="text-lg font-medium text-accent">Exun President '95</p>
+          <p className="text-lg font-medium text-accent">
+            Exun President &apos;95
+          </p>
           <p className="text-[#5B5B5B] text-lg">
             Engineering Manager Facebook, Seattle
           </p>
@@ -41,7 +43,9 @@ export default function Fireside2020() {
           <h3 className="mt-4 text-2xl font-bold text-accent-dark">
             Gaurav Lochan
           </h3>
-          <p className="text-lg font-medium text-accent">Exun President '95</p>
+          <p className="text-lg font-medium text-accent">
+            Exun President &apos;95
+          </p>
           <p className="text-[#5B5B5B] text-lg">
             Engineering Manager Whatsapp, Palo Alto
           </p>
@@ -55,7 +59,9 @@ export default function Fireside2020() {
           <h3 className="mt-4 text-2xl font-bold text-accent-dark">
             Manas Mittal
           </h3>
-          <p className="text-lg font-medium text-accent">Exun President '01</p>
+          <p className="text-lg font-medium text-accent">
+            Exun President &apos;01
+          </p>
           <p className="text-[#5B5B5B] text-lg text-center">
             Head of Product (Ads) Uber, San Francisco
           </p>
