@@ -16,7 +16,7 @@ module.exports = {
         "light-input": "#E0ECFF",
       },
       fontFamily: {
-        sans: ["SF Pro", ...defaultTheme.fontFamily.sans],
+        sans: ["Inter", ...defaultTheme.fontFamily.sans],
       },
     },
   },

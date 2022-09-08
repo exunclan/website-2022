@@ -1,48 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@font-face {
-  font-family: "SF Pro";
-  src: url("fonts/SF-Pro.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "SF Pro";
-  src: url("fonts/SF-Pro.ttf") format("truetype");
-  font-weight: 600;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "SF Pro";
-  src: url("fonts/SF-Pro.ttf") format("truetype");
-  font-weight: 500;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "SF Pro";
-  src: url("fonts/SF-Pro.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "SF Pro";
-  src: url("fonts/SF-Pro.ttf") format("truetype");
-  font-weight: 900;
-  font-style: normal;
-}
+@import url('https://rsms.me/inter/inter.css');
 
 body {
-  font-family: "SF Pro", sans-serif;
-  overflow-x: hidden;
-  width: 100%;
+  @apply font-sans overflow-x-hidden w-full;
 }
-
 .button {
   @apply bg-primary px-4 py-2 rounded text-btn-text;
 }
