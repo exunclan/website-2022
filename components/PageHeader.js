@@ -5,7 +5,7 @@ export default function PageHeader({
   custom,
 }) {
   return (
-    <div className="flex flex-col items-center justify-center w-full py-24">
+    <div className="flex flex-col items-center justify-center w-full py-24 font-semibold">
       <h2 className="text-center text-5xl font-medium md:text-6xl text-primary">
         {title}
       </h2>
