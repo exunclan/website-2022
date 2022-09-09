@@ -70,7 +70,7 @@ export default function Fireside2020() {
       <div className="flex justify-center mt-3">
         <a
           href="//exun.co/fireside"
-          className="bg-primary text-center py-3 text-md uppercase text-white tracking-wider font-medium rounded-lg w-full max-w-[400px]"
+          className="bg-primary text-center py-3 text-md uppercase text-white tracking-wider font-medium rounded-lg w-full max-w-[400px] py-2.5"
         >
           Watch
         </a>
