@@ -3,7 +3,7 @@ export default function About({ aboutRef }) {
     <>
       <div className="flex justify-between mt-24" ref={aboutRef}>
         <div>
-          <h2 className="text-4xl text-primary font-semibold">About Us</h2>
+          <h2 className="text-4xl text-primary font-bold">About Us</h2>
           <div className="text-lg text-accent mt-12 md:mr-3 lg:mr-12">
             <p>
               Founded in 1992, Exun is the technology club at Delhi Public
