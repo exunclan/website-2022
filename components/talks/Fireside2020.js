@@ -4,7 +4,7 @@ export default function Fireside2020() {
       <h1 className="text-3xl font-semibold text-primary">
         Exun Fireside 2020
       </h1>
-      <p className="text-accent-dark mt-6 text-lg max-w-[500px]">
+      <p className="text-accent-dark my-6 text-lg max-w-[500px]">
         Join us for an interactive session with Exun alumni at{" "}
         <a
           href="//exun.co/fireside"
@@ -17,7 +17,7 @@ export default function Fireside2020() {
         . We encourage you to ask questions about building good products,
         working in technology landscape and much more!
       </p>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">
         <div className="flex flex-col items-center p-12 bg-[#F4F8FF] rounded-xl text-center">
           <img
             src="/talks/saif.jpeg"

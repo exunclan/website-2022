@@ -60,7 +60,7 @@ const partners = [
 export default function Sponsors() {
   return (
     <div className="w-full flex flex-col justify-center items-center">
-      <h2 className="text-4xl font-semibold text-accent-dark">Our Sponsors</h2>
+      <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2>
       <div className="flex flex-wrap items-center justify-center mt-5">
         {sponsors.map(({ imageUrl, alt }, i) => (
           <img
