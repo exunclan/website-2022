@@ -13,7 +13,7 @@ export default function Videos({ aboutRef }) {
                             <h2 className="text-4xl mt-24 text-primary text-left font-bold">
                                 Exun {element.year} Videos
                             </h2>
-                            <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
+                            <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
                                 {element.data.map((item) => {
                                     return (
                                         <>
