@@ -3,12 +3,16 @@ import ResourcesHeader from "../components/resources/ResourcesHeader";
 import QuickTips from "../components/resources/QuickTips";
 import ResourceDocs from "../components/resources/ResourceDocs";
 import { resources, quickTips } from "../data/resources";
+import Head from "next/head";
 
 export default function Resources() {
   const [query, setQuery] = useState("");
 
   return (
     <>
+      <Head>
+        <title>Exun Clan | Resources</title>
+      </Head>
       <ResourcesHeader query={query} setQuery={setQuery} />
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
         <ResourceDocs
