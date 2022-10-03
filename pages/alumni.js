@@ -8,7 +8,7 @@ export default function Alumni() {
   return (
     <>
       <Head>
-        <title>Exun Clan | Alumni</title>
+        <title>Alumni | Exun Clan</title>
       </Head>
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
         <PageHeader

@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Exun Clan | Home</title>
+        <title>Home | Exun Clan</title>
       </Head>
       <div>
         <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">

@@ -8,7 +8,7 @@ export default function Members() {
   return (
     <>
       <Head>
-        <title>Exun Clan | Members</title>
+        <title>Members | Exun Clan</title>
       </Head>
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
         <PageHeader

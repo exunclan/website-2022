@@ -8,7 +8,7 @@ export default function Talks() {
   return (
     <>
       <Head>
-        <title>Exun Clan | Talks</title>
+        <title>Talks | Exun Clan</title>
       </Head>
       <TalksHeader />
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">

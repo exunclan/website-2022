@@ -11,7 +11,7 @@ export default function Resources() {
   return (
     <>
       <Head>
-        <title>Exun Clan | Resources</title>
+        <title>Resources | Exun Clan</title>
       </Head>
       <ResourcesHeader query={query} setQuery={setQuery} />
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">

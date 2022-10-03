@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>Exun Clan | Contact</title>
+        <title>Contact | Exun Clan</title>
       </Head>
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
         <PageHeader
