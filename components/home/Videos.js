@@ -8,10 +8,10 @@ export default function Videos({ aboutRef }) {
         {videoData.map((element) => {
           return (
             <>
-              <h2 className="text-4xl mt-24 text-primary text-left font-bold">
+              <h2 className="text-4xl mt-24 text-primary text-left font-bold pt-0 mt-0 pb-5">
                 Exun {element.year} Videos
               </h2>
-              <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
+              <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2 pb-5">
                 {element.data.map((item) => {
                   return (
                     <>
