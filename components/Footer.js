@@ -55,7 +55,7 @@ export default function Footer() {
         </a>
       </div>
       <div className="text-[13px]">
-        &copy; {new Date().getFullYear()} Exun Clan and DPS RK Puram, New Delhi, India
+        &copy; {new Date().getFullYear()}-{(new Date().getFullYear()+1)%100} Exun Clan and DPS RK Puram, New Delhi, India
       </div>
     </footer>
   );
