@@ -75,7 +75,7 @@ export default function Sponsors() {
           />
         ))}
       </div>
-      <h2 className="text-4xl font-semibold text-accent-dark mt-10">
+      <h2 className="text-xl font-semibold text-accent-dark mt-10">
         Sponsors for IT@CE Fest 2022
       </h2>
     </div>
