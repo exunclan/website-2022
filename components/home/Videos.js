@@ -17,7 +17,7 @@ export default function Videos({ aboutRef }) {
                     <>
                       <div className="flex flex-col p-6 mx-2 sm:mx-12">
                         <img
-                          className="object-cover h-52 lg:h-64"
+                          className="object-cover h-52 lg:h-64 rounded-t"
                           src={`https://img.youtube.com/vi/${
                             item.link.split("v=")[1]
                           }/hqdefault.jpg`}
@@ -25,7 +25,7 @@ export default function Videos({ aboutRef }) {
                         />
                         <a
                           href={item.link}
-                          className="bg-blue-500 inline-block text-white font-semibold rounded cursor-pointer py-4 text-center"
+                          className="bg-blue-500 inline-block text-white font-semibold rounded-b cursor-pointer py-4 text-center"
                         >
                           {item.heading}
                         </a>
