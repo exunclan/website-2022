@@ -1,6 +1,6 @@
 import Image from "next/image";
 const sponsors = [
-  {
+  /*{
     imageUrl: "/sponsors/Digital_India_logo.png",
     alt: "Digital India",
   },
@@ -12,11 +12,14 @@ const sponsors = [
     imageUrl: "/sponsors/plaksha.png",
     alt: "Plaksha",
   },
+  */
   {
-    imageUrl: "/sponsors/codechef.svg",
-    alt: "Codechef",
+    imageUrl: "/sponsors/Logo_Rario_1.png",
+    alt: "Rario",
   },
 ];
+
+/*
 
 const partners = [
   {
@@ -56,6 +59,7 @@ const partners = [
     alt: "New Delhi Space Society",
   },
 ];
+*/
 
 export default function Sponsors() {
   return (
@@ -71,19 +75,9 @@ export default function Sponsors() {
           />
         ))}
       </div>
-      <h2 className="text-4xl font-semibold text-accent-dark mt-10">
-        Community Partners
+      <h2 className="text-xl font-semibold text-accent-dark mt-10">
+        Sponsors for IT@CE Fest 2022
       </h2>
-      <div className="flex flex-wrap items-center justify-center mt-5">
-        {partners.map(({ imageUrl, alt }, i) => (
-          <img
-            src={imageUrl}
-            alt={alt}
-            key={i}
-            className="h-[60px] w-auto mx-10 mb-5"
-          />
-        ))}
-      </div>
     </div>
   );
 }
