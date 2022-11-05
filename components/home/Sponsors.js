@@ -13,16 +13,6 @@ const sponsors = [
     alt: "Plaksha",
   },
   */
-  {
-    imageUrl: "/sponsors/devfolio.png",
-    alt: "Devfolio",
-    link: "https://devfolio.co",
-  },
-  {
-    imageUrl: "/sponsors/polygon.png",
-    alt: "Polygon",
-    link: "https://polygon.technology",
-  },
 ];
 
 const partners = [
@@ -34,6 +24,22 @@ const partners = [
   //   imageUrl: "/sponsors/rosenfield.png",
   //   alt: "Rosenfeld",
   // },
+  {
+    imageUrl: "/sponsors/devfolio.png",
+    alt: "Devfolio",
+    link: "https://devfolio.co",
+  },
+  {
+    imageUrl: "/sponsors/polygon.png",
+    alt: "Polygon",
+    link: "https://polygon.technology",
+  },
+  {
+    imageUrl:
+      "https://codechef_shared.s3.amazonaws.com/download/New%20CodeChef%20Logo/cc-logo.svg",
+    alt: "Codechef",
+    link: "https://codechef.com",
+  },
   {
     imageUrl: "/sponsors/echo3d.png",
     alt: "Echo 3D",
