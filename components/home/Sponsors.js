@@ -35,6 +35,11 @@ const partners = [
   //   alt: "Rosenfeld",
   // },
   {
+    imageUrl: "/sponsors/echo3d.png",
+    alt: "Echo 3D",
+    link: "https://echo3d.co",
+  },
+  {
     imageUrl: "/sponsors/solana.png",
     alt: "Solana",
     link: "https://solana.com",
@@ -74,15 +79,27 @@ const partners = [
     link: "https://streamyard.com",
   },
   {
+    imageUrl: "/sponsors/xyz.png",
+    alt: ".xyz Domains",
+    link: "https://gen.xyz",
+  },
+  {
     imageUrl: "/sponsors/ndss.png",
     alt: "New Delhi Space Society",
     link: "https://newdelhi.nss.org",
   },
 ];
 
-function SponsorImage({ imageUrl, alt }) {
+function SponsorImage({ imageUrl, alt, small }) {
   return (
-    <img src={imageUrl} alt={alt} className="h-[70px] w-auto object-contain" />
+    <img
+      src={imageUrl}
+      alt={alt}
+      className={`w-auto object-contain`}
+      style={{
+        height: small ? "45px" : "70px",
+      }}
+    />
   );
 }
 
@@ -94,22 +111,24 @@ export default function Sponsors() {
         {sponsors.map(({ imageUrl, alt, link }, i) =>
           link ? (
             <a href={link} target="_blank" rel="noreferrer">
-              <SponsorImage imageUrl={imageUrl} alt={alt} />
+              <SponsorImage imageUrl={imageUrl} alt={alt} small={false} />
             </a>
           ) : (
             <SponsorImage imageUrl={imageUrl} alt={alt} />
           )
         )}
       </div>
-      <h2 className="text-4xl font-bold text-accent-dark mt-4">Partners</h2>
+      <h2 className="text-4xl font-bold text-accent-dark mt-4">
+        Community Partners
+      </h2>
       <div className="flex flex-wrap items-center justify-center mt-5 gap-4">
         {partners.map(({ imageUrl, alt, link }, i) =>
           link ? (
             <a href={link} target="_blank" rel="noreferrer">
-              <SponsorImage imageUrl={imageUrl} alt={alt} />
+              <SponsorImage imageUrl={imageUrl} alt={alt} small />
             </a>
           ) : (
-            <SponsorImage imageUrl={imageUrl} alt={alt} />
+            <SponsorImage imageUrl={imageUrl} alt={alt} small />
           )
         )}
       </div>
