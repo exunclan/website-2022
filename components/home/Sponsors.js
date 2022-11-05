@@ -49,26 +49,30 @@ const partners = [
     alt: "Repl.it",
     link: "https://replit.com",
   },
-  // {
-  //   imageUrl: "/sponsors/wolfram.png",
-  //   alt: "Wolfram",
-  // },
+  {
+    imageUrl: "/sponsors/wolfram.png",
+    alt: "Wolfram",
+    link: "https://wolfram.com",
+  },
   // {
   //   imageUrl: "/sponsors/aops.png",
   //   alt: "AOPS",
   // },
-  // {
-  //   imageUrl: "/sponsors/taskade.png",
-  //   alt: "Taskade",
-  // },
-  // {
-  //   imageUrl: "/sponsors/interview-cake.svg",
-  //   alt: "Interview Cake",
-  // },
-  // {
-  //   imageUrl: "/sponsors/streamyard.png",
-  //   alt: "StreamYard",
-  // },
+  {
+    imageUrl: "/sponsors/taskade.png",
+    alt: "Taskade",
+    link: "https://taskade.com",
+  },
+  {
+    imageUrl: "/sponsors/interview-cake.svg",
+    alt: "Interview Cake",
+    link: "https://interviewcake.com",
+  },
+  {
+    imageUrl: "/sponsors/streamyard.png",
+    alt: "StreamYard",
+    link: "https://streamyard.com",
+  },
   {
     imageUrl: "/sponsors/ndss.png",
     alt: "New Delhi Space Society",
