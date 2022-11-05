@@ -1,4 +1,6 @@
+import { useState, useEffect } from "react";
 import Image from "next/image";
+
 const sponsors = [
   {
     imageUrl: "/sponsors/Digital_India_logo.png",
@@ -96,24 +98,35 @@ const partners = [
   },
 ];
 
-function SponsorImage({ imageUrl, alt, small }) {
+function SponsorImage({ imageUrl, alt, small, img_height }) {
+  console.log(img_height)
   return (
     <img
       src={imageUrl}
       alt={alt}
       className={`w-auto object-contain`}
       style={{
-        height: small ? "45px" : "70px",
+        height: small ? img_height : "70px",
       }}
     />
   );
 }
 
 export default function Sponsors() {
+  const [ImgHeight, setImgHeight] = useState("45px")
+
+  useEffect(() => {
+    if(typeof window !== undefined){
+      if(window.matchMedia('(max-width: 480px)').matches) {
+        setImgHeight("30px")
+      }
+    }
+  }, [])
+  
   return (
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
-      <div className="flex flex-wrap items-center justify-center mt-5 gap-4">
+      <div className="flex flex-wrap items-center justify-center mb-5 gap-4">
         {sponsors.map(({ imageUrl, alt, link }, i) =>
           link ? (
             <a href={link} target="_blank" rel="noreferrer">
@@ -124,17 +137,17 @@ export default function Sponsors() {
           )
         )}
       </div>
-      <h2 className="text-4xl font-bold text-accent-dark mt-4">
+      <h2 className="text-4xl font-bold text-accent-dark my-8">
         Community Partners
       </h2>
-      <div className="flex flex-wrap items-center justify-center mt-5 gap-4">
+      <div className="flex flex-wrap items-center justify-center mt-5 gap-8">
         {partners.map(({ imageUrl, alt, link }, i) =>
           link ? (
             <a href={link} target="_blank" rel="noreferrer">
-              <SponsorImage imageUrl={imageUrl} alt={alt} small />
+              <SponsorImage imageUrl={imageUrl} alt={alt} small img_height={ImgHeight} />
             </a>
           ) : (
-            <SponsorImage imageUrl={imageUrl} alt={alt} small />
+            <SponsorImage imageUrl={imageUrl} alt={alt} small img_height={ImgHeight} />
           )
         )}
       </div>
