@@ -1,10 +1,10 @@
 import Image from "next/image";
 const sponsors = [
-  /*{
+  {
     imageUrl: "/sponsors/Digital_India_logo.png",
     alt: "Digital India",
   },
-  {
+  /*{
     imageUrl: "/sponsors/athena.png",
     alt: "Athena Education",
   },
