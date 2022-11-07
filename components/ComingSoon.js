@@ -3,7 +3,7 @@ export default function ComingSoon() {
     <div className="flex flex-col h-[calc(100vh-102px)] w-full justify-center items-center">
       <video playsInline autoPlay loop muted width="500">
         <source
-          src="https://cdn.discordapp.com/attachments/918142261693399081/924294738947997756/transparent-4.webm"
+          src="https://cdn.discordapp.com/attachments/855442145916616724/1038472113566273556/Exun_Reel_2.webm"
           type="video/mp4"
         />
       </video>
