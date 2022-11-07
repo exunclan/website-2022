@@ -35,6 +35,11 @@ const partners = [
     link: "https://polygon.technology",
   },
   {
+    imageUrl: "/sponsors/do.png",
+    alt: "Digital Ocean",
+    link: "https://digitalocean.com",
+  },
+  {
     imageUrl:
       "https://codechef_shared.s3.amazonaws.com/download/New%20CodeChef%20Logo/cc-logo.svg",
     alt: "Codechef",
