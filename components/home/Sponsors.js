@@ -6,15 +6,16 @@ const sponsors = [
     imageUrl: "/sponsors/Digital_India_logo.png",
     alt: "Digital India",
   },
-  /*{
-    imageUrl: "/sponsors/athena.png",
-    alt: "Athena Education",
+  {
+    imageUrl: "/sponsors/extramarks.png",
+    alt: "Extramarks",
+    link: "https://extramarks.com/",
   },
   {
     imageUrl: "/sponsors/plaksha.png",
     alt: "Plaksha",
+    link: "https://plaksha.edu.in/",
   },
-  */
 ];
 
 const partners = [
@@ -101,33 +102,38 @@ const partners = [
     alt: "New Delhi Space Society",
     link: "https://newdelhi.nss.org",
   },
+  {
+    imageUrl: "/sponsors/cryptii.svg",
+    alt: "Cryptii",
+    link: "https://cryptii.com",
+  },
 ];
 
 function SponsorImage({ imageUrl, alt, small, img_height }) {
-  console.log(img_height)
+  console.log(img_height);
   return (
     <img
       src={imageUrl}
       alt={alt}
       className={`w-auto object-contain`}
       style={{
-        height: small ? img_height : "70px",
+        height: small ? img_height : "120px",
       }}
     />
   );
 }
 
 export default function Sponsors() {
-  const [ImgHeight, setImgHeight] = useState("45px")
+  const [ImgHeight, setImgHeight] = useState("45px");
 
   useEffect(() => {
-    if(typeof window !== undefined){
-      if(window.matchMedia('(max-width: 480px)').matches) {
-        setImgHeight("30px")
+    if (typeof window !== undefined) {
+      if (window.matchMedia("(max-width: 480px)").matches) {
+        setImgHeight("30px");
       }
     }
-  }, [])
-  
+  }, []);
+
   return (
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
@@ -149,10 +155,20 @@ export default function Sponsors() {
         {partners.map(({ imageUrl, alt, link }, i) =>
           link ? (
             <a href={link} target="_blank" rel="noreferrer">
-              <SponsorImage imageUrl={imageUrl} alt={alt} small img_height={ImgHeight} />
+              <SponsorImage
+                imageUrl={imageUrl}
+                alt={alt}
+                small
+                img_height={ImgHeight}
+              />
             </a>
           ) : (
-            <SponsorImage imageUrl={imageUrl} alt={alt} small img_height={ImgHeight} />
+            <SponsorImage
+              imageUrl={imageUrl}
+              alt={alt}
+              small
+              img_height={ImgHeight}
+            />
           )
         )}
       </div>
