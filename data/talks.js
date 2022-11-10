@@ -1,5 +1,30 @@
 const talks = [
   {
+    year: "2022-23",
+    talks: [
+      {
+        name: "Algorithms for the Internet: How Economics & Computer Science Interact",
+        description:
+          "Aurojit Panda is an assistant professor in Computer Science at New York University's Courant Institute and an exun alumnus. His main interests are distributed systems and networking. In this talk, he'll briefly review how the correctness of the Internet's routing algorithms is predicated on arguments about how the people and machines that it connects are likely to behave as rational entities; how the emergence of new applications and concerns is changing these incentives; and how this can impact the future of the Internet. Finally, the talk aims to explain why a broader understanding of these issues is essential to preserving the Internet.",
+        link: "https://www.youtube.com/watch?v=Q9S4IEnl1B8&ab_channel=ExunClan",
+        by: {
+          name: "Aurojit Panda",
+          image: "aurojit.jpeg",
+        },
+      },
+      {
+        name: "Series of Interesting Problems One Solves as a Hardware Engineer",
+        description:
+          "After completing high school at DPS RK Puram in 1998, Tushit pursued his B.Tech and M.Tech degrees in Electrical Engineering from IIT Madras. Since 2003, he has been working in the semiconductor industry, where he built hardware, software, and algorithms for products ranging from Smartwatches, Cameras, RFIDs, Wi-Fi Routers, and POS devices. In 2014, he was the CTO and founder of MagnetWorks, a startup working on Industrial IoT solutions for remote monitoring of Industrial equipment and processes in factories. After closing his startup in 2015, he returned to the semiconductor industry, where he built and managed teams working on VR and AI.",
+        link: "https://www.youtube.com/watch?v=nQLd6DAM-lg&ab_channel=ExunClan",
+        by: {
+          name: "Tushit Jain",
+          image: "tushit.jpeg",
+        },
+      },
+    ],
+  },
+  {
     year: "2021-22",
     talks: [
       {
