@@ -16,6 +16,16 @@ const sponsors = [
     alt: "Plaksha",
     link: "https://plaksha.edu.in/",
   },
+  {
+    imageUrl: "/sponsors/vardiano.png",
+    alt: "Vardiano",
+    link: "https://www.vardiano.com/",
+  },
+  {
+    imageUrl: "/sponsors/playstation.png",
+    alt: "Playstation",
+    link: "https://www.playstation.com/",
+  },
 ];
 
 const partners = [
@@ -117,7 +127,7 @@ function SponsorImage({ imageUrl, alt, small, img_height }) {
       alt={alt}
       className={`w-auto object-contain`}
       style={{
-        height: small ? img_height : "120px",
+        height: small ? img_height : alt === "Playstation" ? "80px" : "120px",
       }}
     />
   );
