@@ -17,6 +17,11 @@ const sponsors = [
     link: "https://plaksha.edu.in/",
   },
   {
+    imageUrl: "/sponsors/ongc.jpeg",
+    alt: "ONGC",
+    link: "https://www.ongcindia.com/",
+  },
+  {
     imageUrl: "/sponsors/vardiano.png",
     alt: "Vardiano",
     link: "https://www.vardiano.com/",
