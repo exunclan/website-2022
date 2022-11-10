@@ -5,6 +5,7 @@ const sponsors = [
   {
     imageUrl: "/sponsors/Digital_India_logo.png",
     alt: "Digital India",
+    link: "#",
   },
   {
     imageUrl: "/sponsors/extramarks.png",
@@ -120,7 +121,6 @@ const partners = [
 ];
 
 function SponsorImage({ imageUrl, alt, small, img_height }) {
-  console.log(img_height);
   return (
     <img
       src={imageUrl}
@@ -148,39 +148,28 @@ export default function Sponsors() {
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
       <div className="flex flex-wrap items-center justify-center mb-5 gap-4">
-        {sponsors.map(({ imageUrl, alt, link }, i) =>
-          link ? (
-            <a href={link} target="_blank" rel="noreferrer">
-              <SponsorImage imageUrl={imageUrl} alt={alt} small={false} />
-            </a>
-          ) : (
-            <SponsorImage imageUrl={imageUrl} alt={alt} />
-          )
-        )}
+        {sponsors.map(({ imageUrl, alt, link }, i) => (
+          <a key={i} href={link} target="_blank" rel="noreferrer">
+            <SponsorImage key={i} imageUrl={imageUrl} alt={alt} small={false} />
+          </a>
+        ))}
       </div>
-      <h2 className="text-4xl font-bold text-accent-dark my-8">
+
+      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
         Community Partners
-      </h2>
+      </h1>
       <div className="flex flex-wrap items-center justify-center mt-5 gap-8">
-        {partners.map(({ imageUrl, alt, link }, i) =>
-          link ? (
-            <a href={link} target="_blank" rel="noreferrer">
-              <SponsorImage
-                imageUrl={imageUrl}
-                alt={alt}
-                small
-                img_height={ImgHeight}
-              />
-            </a>
-          ) : (
+        {partners.map(({ imageUrl, alt, link }, i) => (
+          <a key={i} href={link} target="_blank" rel="noreferrer">
             <SponsorImage
+              key={i}
               imageUrl={imageUrl}
               alt={alt}
               small
               img_height={ImgHeight}
             />
-          )
-        )}
+          </a>
+        ))}
       </div>
     </div>
   );

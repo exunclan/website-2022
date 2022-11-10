@@ -46,8 +46,6 @@ export default function Navbar() {
     setShowMobile(false);
   }, []);
 
-  console.log(router.pathname === "/members");
-
   return (
     <div className="flex justify-center py-4 px-12 shadow-[0_-8px_35px_0_rgba(41,119,245,0.26)]">
       <div className="flex justify-between items-center text-lg font-medium text-accent max-w-[1400px] w-full lg:justify-evenly">
