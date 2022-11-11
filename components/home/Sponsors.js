@@ -8,6 +8,11 @@ const sponsors = [
     link: "#",
   },
   {
+    imageUrl: "/sponsors/skilleit.jpeg",
+    alt: "Skilleit",
+    link: "#",
+  },
+  {
     imageUrl: "/sponsors/extramarks.png",
     alt: "Extramarks",
     link: "https://extramarks.com/",
