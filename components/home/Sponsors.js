@@ -8,11 +8,6 @@ const sponsors = [
     link: "#",
   },
   {
-    imageUrl: "/sponsors/skilleit.jpeg",
-    alt: "Skilleit",
-    link: "#",
-  },
-  {
     imageUrl: "/sponsors/extramarks.png",
     alt: "Extramarks",
     link: "https://extramarks.com/",
@@ -52,6 +47,11 @@ const partners = [
     imageUrl: "/sponsors/devfolio.png",
     alt: "Devfolio",
     link: "https://devfolio.co",
+  },
+  {
+    imageUrl: "/sponsors/skilleit.png",
+    alt: "Skilleit",
+    link: "#",
   },
   {
     imageUrl: "/sponsors/polygon.png",
