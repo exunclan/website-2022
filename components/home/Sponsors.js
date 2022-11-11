@@ -51,7 +51,7 @@ const partners = [
   {
     imageUrl: "/sponsors/skilleit.png",
     alt: "Skilleit",
-    link: "#",
+    link: "https://www.skilleit.com/",
   },
   {
     imageUrl: "/sponsors/polygon.png",
