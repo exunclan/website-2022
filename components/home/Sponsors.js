@@ -49,6 +49,11 @@ const partners = [
     link: "https://devfolio.co",
   },
   {
+    imageUrl: "/sponsors/skilleit.png",
+    alt: "Skilleit",
+    link: "#",
+  },
+  {
     imageUrl: "/sponsors/polygon.png",
     alt: "Polygon",
     link: "https://polygon.technology",
