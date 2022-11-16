@@ -76,6 +76,11 @@
         "name": "Vinayak Dhawan",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Shivansh Bhatnagar",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
@@ -107,6 +112,11 @@
         "name": "Pratyush Vempati",
         "role": "Member",
         "image": "./images/pratyush.jpg"
+      },
+      {
+        "name": "Augustya Adityadi",
+        "role": "Member",
+        "image": ""
       },
       {
         "name": "Navya Garg",
@@ -149,12 +159,22 @@
         "image": ""
       },
       {
-        "name": "Augustya Adityadi",
+        "name": "Nehaara Kaushik",
         "role": "Member",
         "image": ""
       },
       {
         "name": "Siddhartha Verma",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Yoovan Pattnaik",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Anup Dev Pattnaik",
         "role": "Member",
         "image": ""
       },
@@ -240,6 +260,11 @@
     "members": [
       {
         "name": "Darsh Sikka",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Ananya Srivastava",
         "role": "Member",
         "image": ""
       },
