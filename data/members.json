@@ -81,6 +81,16 @@
         "name": "Shivansh Bhatnagar",
         "role": "Member",
         "image": ""
+      },      
+      {
+        "name": "Swastik Agrawal",
+        "role": "Member",
+        "image": ""
+      },      
+      {
+        "name": "Priyansh Bansal",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
@@ -182,6 +192,11 @@
         "name": "Tia Mehtani",
         "role": "Member",
         "image": ""
+      },      
+      {
+        "name": "Parav Jaikrishan",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
@@ -252,6 +267,21 @@
         "name": "Aikagra Gupta",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Raaghav Sethi",
+        "role": "Member",
+        "image": ""
+      },      
+      {
+        "name": "S Shrikirti",
+        "role": "Member",
+        "image": ""
+      },      
+      {
+        "name": "Mishaa Kalra",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
@@ -312,12 +342,37 @@
         "name": "Aryaman M Reddy",
         "role": "Member",
         "image": ""
+      },    
+      {
+        "name": "Anwita Chandra",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Zonish Siddiqui",
+        "role": "Member",
+        "image": ""
+      },     
+      {
+        "name": "Ahaan Purohit",
+        "role": "Member",
+        "image": ""
+      },     
+      {
+        "name": "Nabhay Khanna",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
   {
     "year": "8th",
     "members": [
+       {
+        "name": "Akansh Rajan",
+        "role": "Member",
+        "image": ""
+      },
       {
         "name": "Neil Sindwani",
         "role": "Member",
@@ -347,6 +402,16 @@
         "name": "Tanishq Arora",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Shashank Roy",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Jai Goel",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
@@ -355,6 +420,21 @@
     "members": [
       {
         "name": "Nanya Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Krishna",
+        "role": "Member",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "year": "6th",
+    "members": [
+      {
+        "name": "Kanav Lall",
         "role": "Member",
         "image": ""
       }
