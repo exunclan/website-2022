@@ -50,17 +50,19 @@ export default function Navbar() {
     <div className="flex justify-center py-4 px-12 shadow-[0_-8px_35px_0_rgba(41,119,245,0.26)]">
       <div className="flex justify-between items-center text-lg font-medium text-accent max-w-[1400px] w-full lg:justify-evenly">
         <Link href="/">
-          <Image
-            src="/logo.png"
-            alt="Logo"
-            width={170}
-            height={70}
-            className="cursor-pointer"
-          />
+          <a>
+            <Image
+              src="/logo.png"
+              alt="Logo"
+              width={170}
+              height={70}
+              className="cursor-pointer"
+            />
+          </a>
         </Link>
         {links.map(({ label, href }) => (
-          <a key={label} className="hidden lg:inline-block">
-            <Link href={href}>
+          <Link key={label} href={href}>
+            <a className="hidden lg:inline-block">
               <p
                 className={
                   "cursor-pointer" +
@@ -71,8 +73,8 @@ export default function Navbar() {
               >
                 {label}
               </p>
-            </Link>
-          </a>
+            </a>
+          </Link>
         ))}
         <a
           href="//lnexun.com"
