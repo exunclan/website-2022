@@ -13,9 +13,6 @@ export default function Hero({ scrollToAboutRef }) {
           <button className="button" onClick={scrollToAboutRef}>
             Read More
           </button>
-          <a href="//reg.exun.co/invite" className="button text-center">
-            Register for Exun 2022
-          </a>
         </div>
       </div>
       <Image
