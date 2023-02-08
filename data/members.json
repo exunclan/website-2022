@@ -43,17 +43,17 @@
         "image": ""
       },
       {
+        "name": "Sneha Chandra",
+        "role": "Honorary Advisor",
+        "image": ""
+      },
+      {
         "name": "Bhuvnesh Nagpal",
         "role": "Member",
         "image": ""
       },
       {
         "name": "Aadhya Dhar",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Sneha Chandra",
         "role": "Member",
         "image": ""
       },
@@ -81,12 +81,12 @@
         "name": "Shivansh Bhatnagar",
         "role": "Member",
         "image": ""
-      },      
+      },
       {
         "name": "Swastik Agrawal",
         "role": "Member",
         "image": ""
-      },      
+      },
       {
         "name": "Priyansh Bansal",
         "role": "Member",
@@ -197,17 +197,17 @@
         "name": "Tia Mehtani",
         "role": "Member",
         "image": ""
-      },      
+      },
       {
         "name": "Parav Jaikrishan",
         "role": "Member",
         "image": ""
-      },      
+      },
       {
         "name": "Vaibhav Sahni",
         "role": "Member",
         "image": ""
-      },     
+      },
       {
         "name": "Aprameyya Garg",
         "role": "Member",
@@ -287,17 +287,17 @@
         "name": "Raaghav Sethi",
         "role": "Member",
         "image": ""
-      },      
+      },
       {
         "name": "S Shrikirti",
         "role": "Member",
         "image": ""
-      },      
+      },
       {
         "name": "Mishaa Kalra",
         "role": "Member",
         "image": ""
-      },      
+      },
       {
         "name": "Shresth Singh",
         "role": "Member",
@@ -362,7 +362,7 @@
         "name": "Aryaman M Reddy",
         "role": "Member",
         "image": ""
-      },    
+      },
       {
         "name": "Anwita Chandra",
         "role": "Member",
@@ -372,12 +372,12 @@
         "name": "Zonish Siddiqui",
         "role": "Member",
         "image": ""
-      },     
+      },
       {
         "name": "Ahaan Purohit",
         "role": "Member",
         "image": ""
-      },     
+      },
       {
         "name": "Nabhay Khanna",
         "role": "Member",
@@ -388,7 +388,7 @@
   {
     "year": "8th",
     "members": [
-       {
+      {
         "name": "Akansh Rajan",
         "role": "Member",
         "image": ""
