@@ -1,0 +1,219 @@
+[
+  {
+    "type": "3D",
+    "content": [
+      {
+        "title": "Sudocrypt v11.0 Trailer",
+        "link": "https://www.youtube.com/watch?v=V_HjXwoRlAM"
+      },
+      {
+        "title": "Exun 2021-22 Trailer",
+        "link": "https://www.youtube.com/watch?v=E7iSalhLUMA"
+      },
+      {
+        "title": "DeCryptonite 2022 Trailer",
+        "link": "https://www.youtube.com/watch?v=ikxGtmGmj0Y"
+      },
+      {
+        "title": "DPS IT Fest 2022 Trailer",
+        "link": "https://www.youtube.com/watch?v=y1iyAFSCWas"
+      }
+    ]
+  },
+  {
+    "type": "Design",
+    "content": [
+      {
+        "title": "Chocolate Factory",
+        "link": "https://www.behance.net/gallery/132611583/Charlie-and-the-Chocolate-Factory-UIUX-video-3D"
+      },
+      {
+        "title": "Steph",
+        "link": "https://www.behance.net/gallery/150200939/Steph-UIUX-Branding"
+      },
+      {
+        "title": "Pokedex",
+        "link": "https://www.behance.net/gallery/150932677/Pokedex-Branding"
+      },
+      {
+        "title": "Tony Airways",
+        "link": "https://www.behance.net/gallery/154869675/Tony-Airways-Air-Travel-App"
+      },
+      {
+        "title": "Aelecair",
+        "link": "https://www.behance.net/gallery/129858389/Aelecair-for-awareness-of-electric-airplanes"
+      },
+      {
+        "title": "Venia",
+        "link": "https://www.behance.net/gallery/134558657/VENIA-VEGAN-FOOD-TRUCK"
+      },
+      {
+        "title": "Agroclima",
+        "link": "https://www.behance.net/gallery/150613299/Agroclima-Blending-crops-with-the-planet"
+      }
+    ]
+  },
+  {
+    "type": "Motion Design",
+    "content": [
+      {
+        "title": "Syntech",
+        "link": "https://youtu.be/MihK4sxy-dk"
+      },
+      {
+        "title": "CBSE Rebranding",
+        "link": "https://youtu.be/n6nf4_49FIE"
+      },
+      {
+        "title": "Beacon Aid",
+        "link": "https://youtu.be/pzzxt6axIt4"
+      },
+      {
+        "title": "Agroclima",
+        "link": "https://youtu.be/bSTLnLCpcM4"
+      },
+      {
+        "title": "WALL-E Tribute",
+        "link": "https://youtu.be/JOe5KVQ_jFk"
+      },
+      {
+        "title": "Hi Chai",
+        "link": "https://youtu.be/hZYa6zkPTxU"
+      },
+      {
+        "title": "Blender",
+        "link": "https://youtu.be/4YYhhQsO_J8"
+      },
+      {
+        "title": "Buds V",
+        "link": "https://youtu.be/clmNfF0TmkE"
+      }
+    ]
+  },
+  {
+    "type": "App Dev",
+    "content": [
+      {
+        "title": "Incubo",
+        "link": "https://github.com/Aikagra/Incubo"
+      },
+      {
+        "title": "Createch",
+        "link": "https://github.com/Aikagra/CreatechProject"
+      },
+      {
+        "title": "Exun App",
+        "link": "https://github.com/exunclan/exun-app-2021/"
+      }
+    ]
+  },
+  {
+    "type": "Audio",
+    "content": [
+      {
+        "title": "CORE Music",
+        "link": "https://cdn.discordapp.com/attachments/936592936450260992/1009082168347213884/Core_music.mp3"
+      },
+      {
+        "title": "CORE Finals",
+        "link": "https://cdn.discordapp.com/attachments/936592936450260992/1009082287972954162/core_finals.mp3"
+      }
+    ]
+  },
+  {
+    "type": "Web Development",
+    "content": [
+      {
+        "title": "Exun Website",
+        "link": "https://github.com/exunclan/website-2022/"
+      },
+      {
+        "title": "Sudocrypt v11.0",
+        "link": "https://github.com/kavinvalli/sudocrypt-v11/"
+      },
+      {
+        "title": "Sudocrypt v10.0",
+        "link": "https://github.com/dotangad/sudocrypt/"
+      },
+      {
+        "title": "COMETS",
+        "link": "https://github.com/kavinvalli/comets"
+      },
+      {
+        "title": "COMETS Docs",
+        "link": "https://github.com/kavinvalli/comets-minet-docs"
+      },
+      {
+        "title": "Sakaram",
+        "link": "https://github.com/kavinvalli/sakaram"
+      },
+      {
+        "title": "CBSE Rebranding",
+        "link": "https://github.com/kavinvalli/core-cbse-rebrand-2021"
+      },
+      {
+        "title": "Sakaram Dashboard",
+        "link": "https://github.com/kavinvalli/core-dashboard-2021"
+      },
+      {
+        "title": "Cognizer Extension",
+        "link": "https://github.com/kavinvalli/cw-hack-extension-2021"
+      },
+      {
+        "title": "Cognizer App",
+        "link": "https://github.com/kavinvalli/cw-hack-app-2021"
+      }
+    ]
+  },
+  {
+    "type": "Competitive Programming",
+    "content": [
+      {
+        "title": "Exun 2021-22",
+        "link": "https://www.codechef.com/EXUN2021"
+      },
+      {
+        "title": "Exun 2020",
+        "link": "https://codeforces.com/contest/1438"
+      },
+      {
+        "title": "Exun 2019",
+        "link": "https://www.codechef.com/EXPP2019"
+      },
+      {
+        "title": "Exun 2018",
+        "link": "https://www.codechef.com/EXPP201"
+      },
+      {
+        "title": "Exun 2017",
+        "link": "https://www.codechef.com/ICOP1804"
+      }
+    ]
+  },
+  {
+    "type": "Game Development",
+    "content": [
+      {
+        "title": "Escape",
+        "link": "https://github.com/IDoEverything/Escape"
+      },
+      {
+        "title": "Voksel",
+        "link": "https://github.com/pulkitgarg784/Voksel"
+      },
+      {
+        "title": "Pashu",
+        "link": "https://github.com/pulkitgarg784/Pashu"
+      }   
+    ]
+  },
+  {
+    "type": "Computational Linguistics",
+    "content": [
+      {
+        "title": "CL Resources",
+        "link": "https://docs.google.com/document/d/1SBAP1_01eOPL29n75f-ZGKiQ3FKvpt0PsJHMyRZkjEg/edit?usp=sharing"
+      }
+    ]
+  }
+]
