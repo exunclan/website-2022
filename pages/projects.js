@@ -20,7 +20,7 @@ export default function Projects() {
       <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
         <PageHeader
           title="Projects"
-          description="Exun Talks are a series of semi-professional sessions relating to technology, with speakers including Exun and DPS RKP alumni, YouTubers among others."
+          description="A collection of a few of the most innovative projects made by Exun's elite team of Members in disciplines ranging from 3D Design to Competitive Programming"
         />
         {projects.map((project, index) => (
           <>
