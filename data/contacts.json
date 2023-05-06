@@ -55,13 +55,19 @@
   },
   {
     "name": "Siddhartha Verma",
-    "role": "Hardware",
+    "role": "Hardware, Quizzing",
     "number": "",
     "email": "v08320siddhartha@dpsrkp.net"
   },
   {
     "name": "Yoovan Pattnaik",
-    "role": "Quizzing, Crossword",
+    "role": "Quizzing",
+    "number": "",
+    "email": "r21985yoovan@dpsrkp.net"
+  },
+    {
+    "name": "Anup Dev Pattnaik",
+    "role": "Crossword",
     "number": "",
     "email": "r21985yoovan@dpsrkp.net"
   },
