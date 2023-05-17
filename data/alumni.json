@@ -1,4 +1,98 @@
-[
+[{
+    "year": "2022-23",
+    "alumni": [
+      {
+        "name": "Kavin Desi Valli",
+        "role": "President",
+        "image": ""
+      },
+      {
+        "name": "Shireen Rajora",
+        "role": "President",
+        "image": ""
+      },
+      {
+        "name": "Tanmay Arora",
+        "role": "Vice President",
+        "image": ""
+      },
+      {
+        "name": "Vishesh Saraswat",
+        "role": "Vice President",
+        "image": ""
+      },
+      {
+        "name": "Vedant Singh",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Aarshia Gupta",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Mehul Srivastava",
+        "role": "Creative Director",
+        "image": ""
+      },
+      {
+        "name": "Harshikaa Agrawal",
+        "role": "Creative Director",
+        "image": ""
+      },
+      {
+        "name": "Sneha Chandra",
+        "role": "Honorary Advisor",
+        "image": ""
+      },
+      {
+        "name": "Bhuvnesh Nagpal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aadhya Dhar",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shubhaankar Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Pratishtha Batra",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aakarsh Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Vinayak Dhawan",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shivansh Bhatnagar",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Swastik Agrawal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Priyansh Bansal",
+        "role": "Member",
+        "image": ""
+      }
+    ]
+  },
   {
     "year": "2021-22",
     "alumni": [
