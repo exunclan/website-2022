@@ -128,7 +128,7 @@ const MobileNavbar = ({ currentRoute, close }) => {
         <ul className="text-xl text-white text-regular flex flex-col items-center">
           {links.map(({ label, href }) => (
             <li key={label} className="my-4">
-              <Link href={href}>
+              <Link href={href} onClick={close}>
                 <p
                   className={
                     "cursor-pointer" + (currentRoute === href ? "" : "")
