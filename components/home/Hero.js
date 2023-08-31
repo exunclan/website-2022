@@ -6,7 +6,7 @@ export default function Hero({ scrollToAboutRef }) {
       <div className="flex flex-col items-center md:items-start">
         <h1 className="text-5xl md:text-6xl mt-6 md:mt-0 text-accent font-semibold leading-tight text-center md:text-left">
           Celebrating
-          <br /> 30 years of
+          <br /> 31 years of
           <br /> <span className="text-primary">Exun</span>
         </h1>
         <div className="flex items-center gap-3 mt-5">
