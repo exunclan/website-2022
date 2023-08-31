@@ -70,11 +70,6 @@ const partners = [
     link: "https://codechef.com",
   },
   {
-    imageUrl: "/sponsors/echo3d.png",
-    alt: "Echo 3D",
-    link: "https://echo3d.co",
-  },
-  {
     imageUrl: "/sponsors/solana.png",
     alt: "Solana",
     link: "https://solana.com",
@@ -134,6 +129,11 @@ const partners = [
     alt: "Rosenfeld",
     link: "https://rosenfeldmedia.com/",
   },
+  {
+    imageUrl: "/sponsors/echo3d.png",
+    alt: "Echo 3D",
+    link: "https://echo3d.co",
+  }
 ];
 
 function SponsorImage({ imageUrl, alt, small, img_height }) {
