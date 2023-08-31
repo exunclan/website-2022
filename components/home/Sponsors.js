@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 
 const sponsors = [
-  {
+  /*{
     imageUrl: "/sponsors/Digital_India_logo.png",
     alt: "Digital India",
     link: "#",
@@ -31,7 +31,7 @@ const sponsors = [
     imageUrl: "/sponsors/playstation.png",
     alt: "Playstation",
     link: "https://www.playstation.com/",
-  },
+  }, */
 ];
 
 const partners = [
@@ -43,7 +43,7 @@ const partners = [
   //   imageUrl: "/sponsors/rosenfield.png",
   //   alt: "Rosenfeld",
   // },
-  {
+  /*{
     imageUrl: "/sponsors/devfolio.png",
     alt: "Devfolio",
     link: "https://devfolio.co",
@@ -68,11 +68,6 @@ const partners = [
       "https://codechef_shared.s3.amazonaws.com/download/New%20CodeChef%20Logo/cc-logo.svg",
     alt: "Codechef",
     link: "https://codechef.com",
-  },
-  {
-    imageUrl: "/sponsors/echo3d.png",
-    alt: "Echo 3D",
-    link: "https://echo3d.co",
   },
   {
     imageUrl: "/sponsors/solana.png",
@@ -128,6 +123,17 @@ const partners = [
     alt: "Cryptii",
     link: "https://cryptii.com",
   },
+  */
+  {
+    imageUrl: "/sponsors/rosenfield.png",
+    alt: "Rosenfeld",
+    link: "https://rosenfeldmedia.com/",
+  },
+  {
+    imageUrl: "/sponsors/echo3d.png",
+    alt: "Echo 3D",
+    link: "https://echo3d.co",
+  }
 ];
 
 function SponsorImage({ imageUrl, alt, small, img_height }) {
@@ -157,6 +163,9 @@ export default function Sponsors() {
   return (
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
+      {/*<h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
+        Exun 2023 - Partners
+  </h1> */}
       <div className="flex flex-wrap items-center justify-center mb-5 gap-4">
         {sponsors.map(({ imageUrl, alt, link }, i) => (
           <a key={i} href={link} target="_blank" rel="noreferrer">
