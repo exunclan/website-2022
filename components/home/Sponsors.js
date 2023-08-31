@@ -128,6 +128,7 @@ const partners = [
     imageUrl: "/sponsors/rosenfield.png",
     alt: "Rosenfeld",
     link: "https://rosenfeldmedia.com/",
+		img_height: "90px"
   },
   {
     imageUrl: "/sponsors/echo3d.png",
@@ -178,14 +179,14 @@ export default function Sponsors() {
         Community Partners
       </h1>
       <div className="flex flex-wrap items-center justify-center mt-5 gap-8">
-        {partners.map(({ imageUrl, alt, link }, i) => (
+        {partners.map(({ imageUrl, alt, link, img_height }, i) => (
           <a key={i} href={link} target="_blank" rel="noreferrer">
             <SponsorImage
               key={i}
               imageUrl={imageUrl}
               alt={alt}
               small
-              img_height={ImgHeight}
+              img_height={img_height ? img_height : ImgHeight}
             />
           </a>
         ))}
