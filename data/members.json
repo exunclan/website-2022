@@ -5,21 +5,31 @@
     "members": [
       {
         "name": "Pratyush Vempati",
-        "role": "Member",
+        "role": "President",
         "image": "./images/pratyush.jpg"
       },
       {
-        "name": "Kanishka Verma",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Adi Mathur",
-        "role": "Member",
+        "role": "Vice President",
+        "image": ""
+      },     
+      {
+        "name": "Yoovan Pattnaik",
+        "role": "Director",
         "image": ""
       },
       {
         "name": "Anup Dev Pattnaik",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Eshan Sharma",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Kanishka Verma",
         "role": "Member",
         "image": ""
       },
@@ -59,11 +69,6 @@
         "image": ""
       },
       {
-        "name": "Eshan Sharma",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Sneha Pandey",
         "role": "Member",
         "image": ""
@@ -90,11 +95,6 @@
       },
       {
         "name": "Siddhartha Verma",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Yoovan Pattnaik",
         "role": "Member",
         "image": ""
       },
