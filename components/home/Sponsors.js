@@ -20,6 +20,12 @@ const partners = [
     link: "https://www.interviewcake.com/",
     height: "70px",
   },
+  {
+    imageUrl: "/sponsors/xyz.png",
+    alt: ".xyz Domains",
+    link: "https://gen.xyz",
+    height: "70px",
+  },
 ];
 
 function SponsorImage({ imageUrl, alt, small, img_height }) {
