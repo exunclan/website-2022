@@ -34,11 +34,6 @@
         "image": ""
       },
       {
-        "name": "Aprameyya Garg",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Garv Jain",
         "role": "Member",
         "image": ""
@@ -74,11 +69,6 @@
         "image": ""
       },
       {
-        "name": "Aadibhav Prasad",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Apoorva Ghadge",
         "role": "Member",
         "image": ""
@@ -110,11 +100,6 @@
       },
       {
         "name": "Parav Jaikrishan",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Vaibhav Sahni",
         "role": "Member",
         "image": ""
       },
@@ -222,21 +207,6 @@
         "name": "Ananya Shrivastav",
         "role": "Member",
         "image": ""
-      },
-      {
-        "name": "Nyra Bhushan",
-        "role": "Member",
-        "image": "./images/nyra.jpg"
-      },
-      {
-        "name": "Anisha Mahajan",
-        "role": "Member",
-        "image": "./images/anishamahajan.jpg"
-      },
-      {
-        "name": "Vaibhav Sekhri",
-        "role": "Member",
-        "image": "./images/vaibhav.jpg"
       },
       {
         "name": "Shaurya Pratap Srivastava",
