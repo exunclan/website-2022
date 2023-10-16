@@ -26,6 +26,12 @@ const partners = [
     link: "https://gen.xyz",
     height: "70px",
   },
+  {
+    imageUrl: "/sponsors/cubelelo.png",
+    alt: "Cubelelo",
+    link: "https://www.cubelelo.com/",
+    height: "160px",
+  },
 ];
 
 function SponsorImage({ imageUrl, alt, small, img_height }) {

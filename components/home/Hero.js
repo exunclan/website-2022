@@ -10,9 +10,19 @@ export default function Hero({ scrollToAboutRef }) {
           <br /> <span className="text-primary">Exun</span>
         </h1>
         <div className="flex items-center gap-3 mt-5">
+          {/*
           <button className="button" onClick={scrollToAboutRef}>
             Read More
           </button>
+          */}
+          <a
+            href="https://reg.exunclan.com"
+            className="button"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Register
+          </a>
         </div>
       </div>
       <Image
