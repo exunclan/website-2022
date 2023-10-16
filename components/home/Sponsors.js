@@ -32,6 +32,12 @@ const partners = [
     link: "https://www.cubelelo.com/",
     height: "160px",
   },
+  {
+    imageUrl: "/sponsors/wolfram.png",
+    alt: "Wolfram Language",
+    link: "https://www.wolframalpha.com/",
+    height: "90px",
+  },
 ];
 
 function SponsorImage({ imageUrl, alt, small, img_height }) {
