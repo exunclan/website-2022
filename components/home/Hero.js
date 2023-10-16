@@ -21,7 +21,7 @@ export default function Hero({ scrollToAboutRef }) {
             target="_blank"
             rel="noreferrer"
           >
-            Register
+            Register for Exun 2023
           </a>
         </div>
       </div>
