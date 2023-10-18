@@ -23,11 +23,6 @@
         "image": "./images/mohitsir.jpg"
       },
       {
-        "name": "Nandini Dasgupta",
-        "role": "Faculty",
-        "image": "./images/nandinimaam.jpg"
-      },
-      {
         "name": "Sangeeta Rana",
         "role": "Faculty",
         "image": "./images/sangeetamaam.jpg"
@@ -56,16 +51,6 @@
         "name": "Ajithkumar K.G.",
         "role": "Faculty",
         "image": "./images/ajithsir.jpg"
-      },
-      {
-        "name": "Aashima Nagpal",
-        "role": "Former Faculty",
-        "image": "./images/aashimamaam.jpg"
-      },
-      {
-        "name": "Mukesh Nagpal",
-        "role": "Former Faculty",
-        "image": "./images/mukeshnagpalsir.jpg"
       }
     ]
   },
@@ -108,12 +93,7 @@
         "image": "./images/Ramkumar_sir.png"
       },
       {
-        "name": "Gunanand Tiwari",
-        "role": "Former Support Team",
-        "image": "./images/gunanandtiwari.jpg"
-      },
-      {
-        "name": "Vijay Lal",
+        "name": "Kali Ram",
         "role": "Former Support Team",
         "image": "./images/vijaylal.jpg"
       }
