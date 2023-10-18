@@ -5,7 +5,7 @@ const sponsors = [
     imageUrl: "/sponsors/khulke.png",
     alt: "Khulke",
     link: "https://www.khulke.com/",
-    height: "180px",
+    height: "200px",
   },
 ];
 
@@ -75,7 +75,7 @@ export default function Sponsors() {
   return (
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
-      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8">
+      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
         Event Partners
       </h1>
       <div className="flex flex-wrap items-center justify-center gap-4">
@@ -91,7 +91,7 @@ export default function Sponsors() {
         ))}
       </div>
 
-      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8">
+      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
         Community Partners
       </h1>
       <div className="flex flex-wrap items-center justify-center mt-5 gap-8">
