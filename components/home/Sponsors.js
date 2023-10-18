@@ -4,8 +4,8 @@ const sponsors = [
   {
     imageUrl: "/sponsors/khulke.png",
     alt: "Khulke",
-    link: "",
-    height: "200px",
+    link: "https://www.khulke.com/",
+    height: "180px",
   },
 ];
 
@@ -47,14 +47,14 @@ const partners = [
   },
 ];
 
-function SponsorImage({ imageUrl, alt, small, img_height }) {
+function SponsorImage({ imageUrl, alt, img_height }) {
   return (
     <img
       src={imageUrl}
       alt={alt}
       className={`w-auto object-contain`}
       style={{
-        height: small ? img_height : alt === "Playstation" ? "80px" : "120px",
+        height: img_height,
       }}
     />
   );
@@ -74,18 +74,23 @@ export default function Sponsors() {
   return (
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
-      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
+      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8">
         Exun 2023 - Partners
       </h1>
-      <div className="flex flex-wrap items-center justify-center mb-5 gap-4">
-        {sponsors.map(({ imageUrl, alt, link }, i) => (
+      <div className="flex flex-wrap items-center justify-center gap-4">
+        {sponsors.map(({ imageUrl, alt, link, height }, i) => (
           <a key={i} href={link} target="_blank" rel="noreferrer">
-            <SponsorImage key={i} imageUrl={imageUrl} alt={alt} small={false} />
+            <SponsorImage
+              key={i}
+              imageUrl={imageUrl}
+              alt={alt}
+              img_height={height ? height : ImgHeight}
+            />
           </a>
         ))}
       </div>
 
-      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
+      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8">
         Community Partners
       </h1>
       <div className="flex flex-wrap items-center justify-center mt-5 gap-8">
@@ -95,7 +100,6 @@ export default function Sponsors() {
               key={i}
               imageUrl={imageUrl}
               alt={alt}
-              small
               img_height={height ? height : ImgHeight}
             />
           </a>
