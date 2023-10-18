@@ -47,9 +47,10 @@ const partners = [
   },
 ];
 
-function SponsorImage({ imageUrl, alt, img_height }) {
+function SponsorImage({ key, imageUrl, alt, img_height }) {
   return (
     <img
+      key={key}
       src={imageUrl}
       alt={alt}
       className={`w-auto object-contain`}
@@ -75,7 +76,7 @@ export default function Sponsors() {
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
       <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8">
-        Exun 2023 - Partners
+        Event Partners
       </h1>
       <div className="flex flex-wrap items-center justify-center gap-4">
         {sponsors.map(({ imageUrl, alt, link, height }, i) => (
