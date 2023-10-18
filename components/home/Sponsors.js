@@ -1,6 +1,13 @@
 import { useState, useEffect } from "react";
 
-const sponsors = [];
+const sponsors = [
+  {
+    imageUrl: "/sponsors/khulke.png",
+    alt: "Khulke",
+    link: "",
+    height: "200px",
+  },
+];
 
 const partners = [
   {
@@ -67,9 +74,9 @@ export default function Sponsors() {
   return (
     <div className="w-full flex flex-col justify-center items-center">
       {/* <h2 className="text-4xl font-bold text-accent-dark">Our Sponsors</h2> */}
-      {/*<h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
+      <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
         Exun 2023 - Partners
-  </h1> */}
+      </h1>
       <div className="flex flex-wrap items-center justify-center mb-5 gap-4">
         {sponsors.map(({ imageUrl, alt, link }, i) => (
           <a key={i} href={link} target="_blank" rel="noreferrer">
