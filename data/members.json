@@ -1,7 +1,6 @@
 [
   {
     "year": "12th",
-
     "members": [
       {
         "name": "Pratyush Vempati",
@@ -12,7 +11,7 @@
         "name": "Adi Mathur",
         "role": "Vice President",
         "image": ""
-      },     
+      },
       {
         "name": "Yoovan Pattnaik",
         "role": "Director",
@@ -110,6 +109,11 @@
       },
       {
         "name": "Mana Sharma",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aprameyya Garg",
         "role": "Member",
         "image": ""
       }
