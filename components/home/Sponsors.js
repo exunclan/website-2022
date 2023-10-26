@@ -45,6 +45,12 @@ const partners = [
     link: "https://www.wolframalpha.com/",
     height: "90px",
   },
+  {
+    imageUrl: "/sponsors/playstation.png",
+    alt: "Playstation",
+    link: "https://www.playstation.com/en-in/",
+    height: "75px",
+  },
 ];
 
 function SponsorImage({ key, imageUrl, alt, img_height }) {
