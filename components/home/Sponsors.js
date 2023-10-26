@@ -13,6 +13,12 @@ const sponsors = [
         link: "https://www.safexpress.com/",
         height: "200px",
     },
+    {
+        imageUrl: "/sponsors/playstation_logo.png",
+        alt: "Safexpress",
+        link: "https://www.playstation.com/",
+        height: "70px",
+    },
 ];
 
 const partners = [
