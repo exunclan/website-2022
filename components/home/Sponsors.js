@@ -14,10 +14,10 @@ const sponsors = [
         height: "200px",
     },
     {
-        imageUrl: "/sponsors/playstation_logo.png",
-        alt: "Safexpress",
-        link: "https://www.playstation.com/",
-        height: "70px",
+        imageUrl: "/sponsors/plaksha.png",
+        alt: "Plaksha",
+        link: "https://plaksha.edu.in/",
+        height: "130px",
     },
 ];
 
@@ -56,6 +56,12 @@ const partners = [
         alt: "Wolfram Language",
         link: "https://www.wolframalpha.com/",
         height: "90px",
+    },
+    {
+        imageUrl: "/sponsors/playstation.png",
+        alt: "PlayStation",
+        link: "https://www.playstation.com/",
+        height: "70px",
     },
 ];
 
