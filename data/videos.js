@@ -6,6 +6,15 @@ const videos = [
         heading: "Exun Opening Ceremony",
         link: "https://www.youtube.com/watch?v=SSveID0MhrM",
       },
+    ],
+  },
+  {
+    year: "2021-22",
+    data: [
+      {
+        heading: "Exun Opening Ceremony",
+        link: "https://www.youtube.com/watch?v=SSveID0MhrM",
+      },
       {
         heading: "Exun Talk - Monojit Choudhury",
         link: "https://www.youtube.com/watch?v=Q96LHXkdKEo",
