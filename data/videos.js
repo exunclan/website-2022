@@ -6,6 +6,30 @@ const videos = [
         heading: "Exun Video",
         link: "https://www.youtube.com/watch?v=7f9qoAeSULM",
       },
+      {
+        heading: "Exun Talk - Tushit Jain",
+        link: "https://www.youtube.com/live/nQLd6DAM-lg?si=m1r-Hr8aeA-yHFFg",
+      },
+      {
+        heading: "Exun Talk - Aurojit Panda",
+        link: "https://www.youtube.com/live/Q9S4IEnl1B8?si=sJ-qkd9VWfkJdjfQ",
+      },
+      {
+        heading: "Beyond the Bits",
+        link: "https://www.youtube.com/live/lw7pB_NLh_g?si=SpkQunvbLhxlB15Q",
+      },
+      {
+        heading: "Beyond the Bits",
+        link: "https://www.youtube.com/live/maBJTqU9h_A?si=m-6GRWshhjmSK2iI",
+      },
+      {
+        heading: "Beyond the Bits",
+        link: "https://www.youtube.com/live/LQO--9coL10?si=MTmt7O3m_BXrePCq",
+      },
+      {
+        heading: "Exun Fireside Chat",
+        link: "https://www.youtube.com/live/M0GMLEEICHY?si=p3qNX4NADhrGaA-e",
+      },
     ],
   },
   {
