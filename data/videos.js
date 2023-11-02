@@ -24,15 +24,15 @@ const videos = [
         link: "https://www.youtube.com/watch?v=Q9S4IEnl1B8",
       },
       {
-        heading: "Beyond the Bits",
+        heading: "Beyond the Bits - Dr.Krithika Rangarajan and Dr.Chhavi Rastogi",
         link: "https://www.youtube.com/watch?v=lw7pB_NLh_g",
       },
       {
-        heading: "Beyond the Bits",
+        heading: "Beyond the Bits - Priyanshi Ahuja",
         link: "https://www.youtube.com/watch?v=maBJTqU9h_A",
       },
       {
-        heading: "Beyond the Bits",
+        heading: "Beyond the Bits - Alicia Gibb",
         link: "https://www.youtube.com/watch?v=LQO--9coL10",
       },
     ],
