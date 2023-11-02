@@ -1,10 +1,10 @@
 const videos = [
   {
-    year: "2021-22",
+    year: "2022",
     data: [
       {
-        heading: "Exun Opening Ceremony",
-        link: "https://www.youtube.com/watch?v=SSveID0MhrM",
+        heading: "Exun Video",
+        link: "https://www.youtube.com/watch?v=7f9qoAeSULM",
       },
     ],
   },
