@@ -1,5 +1,14 @@
 const videos = [
   {
+    year: "2023",
+    data: [
+      {
+        heading: "Exun Fireside Chat",
+        link: "https://www.youtube.com/watch?v=M0GMLEEICHY",
+      },
+    ],
+  },
+  {
     year: "2022",
     data: [
       {
@@ -25,10 +34,6 @@ const videos = [
       {
         heading: "Beyond the Bits",
         link: "https://www.youtube.com/watch?v=LQO--9coL10",
-      },
-      {
-        heading: "Exun Fireside Chat",
-        link: "https://www.youtube.com/watch?v=M0GMLEEICHY",
       },
     ],
   },
