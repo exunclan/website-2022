@@ -24,7 +24,7 @@ const videos = [
         link: "https://www.youtube.com/watch?v=Q9S4IEnl1B8",
       },
       {
-        heading: "Beyond the Bits - Dr.Krithika Rangarajan and Dr.Chhavi Rastogi",
+        heading: "Beyond the Bits - Dr. Krithika Rangarajan and Dr. Chhavi Rastogi",
         link: "https://www.youtube.com/watch?v=lw7pB_NLh_g",
       },
       {
