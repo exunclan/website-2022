@@ -1,5 +1,43 @@
 const videos = [
   {
+    year: "2023",
+    data: [
+      {
+        heading: "Exun Fireside Chat",
+        link: "https://www.youtube.com/watch?v=M0GMLEEICHY",
+      },
+    ],
+  },
+  {
+    year: "2022",
+    data: [
+      {
+        heading: "Exun Video",
+        link: "https://www.youtube.com/watch?v=7f9qoAeSULM",
+      },
+      {
+        heading: "Exun Talk - Tushit Jain",
+        link: "https://www.youtube.com/watch?v=nQLd6DAM-lg",
+      },
+      {
+        heading: "Exun Talk - Aurojit Panda",
+        link: "https://www.youtube.com/watch?v=Q9S4IEnl1B8",
+      },
+      {
+        heading: "Beyond the Bits - Dr. Krithika Rangarajan and Dr. Chhavi Rastogi",
+        link: "https://www.youtube.com/watch?v=lw7pB_NLh_g",
+      },
+      {
+        heading: "Beyond the Bits - Priyanshi Ahuja",
+        link: "https://www.youtube.com/watch?v=maBJTqU9h_A",
+      },
+      {
+        heading: "Beyond the Bits - Alicia Gibb",
+        link: "https://www.youtube.com/watch?v=LQO--9coL10",
+      },
+    ],
+  },
+  {
     year: "2021-22",
     data: [
       {
