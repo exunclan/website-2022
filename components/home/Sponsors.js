@@ -19,12 +19,6 @@ const sponsors = [
         link: "https://plaksha.edu.in/",
         height: "130px",
     },
-    {
-        imageUrl: "/sponsors/aops.png",
-        alt: "AOPS",
-        link: "https://artofproblemsolving.com/",
-        height: "100px",
-    },
 ];
 
 const partners = [
@@ -68,6 +62,12 @@ const partners = [
         alt: "PlayStation",
         link: "https://www.playstation.com/",
         height: "70px",
+    },
+    {
+        imageUrl: "/sponsors/aops.png",
+        alt: "AOPS",
+        link: "https://artofproblemsolving.com/",
+        height: "100px",
     },
 ];
 
