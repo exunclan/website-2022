@@ -63,6 +63,12 @@ const partners = [
         link: "https://www.playstation.com/",
         height: "70px",
     },
+    {
+        imageUrl: "/sponsors/aops.png",
+        alt: "AOPS",
+        link: "https://artofproblemsolving.com/",
+        height: "100px",
+    },
 ];
 
 function SponsorImage({ key, imageUrl, alt, img_height }) {
