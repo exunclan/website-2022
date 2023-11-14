@@ -27,7 +27,7 @@ export default function Hero({ scrollToAboutRef }) {
       </div>
       <Image
         className="z-[1]"
-        src="/hero.png"
+        src="/illus.PNG"
         width={800}
         height={500}
         alt="Hero Image"
