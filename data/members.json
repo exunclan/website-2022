@@ -197,7 +197,38 @@
         "name": "Shresth Singh",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Atharv Varshney",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aryamaan Goswamy",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shreyadita Kadian",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Maverick Hemam",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Saksham Singhal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Sanyam Asthana",
+        "role": "Member",
+        "image": ""
       }
+      
     ]
   },
   {
@@ -262,6 +293,16 @@
         "name": "Nabhay Khanna",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Manvik Kumar",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Neil Saksena",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
@@ -322,7 +363,18 @@
         "name": "Jai Goel",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Anika Agarwal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Anika Gupta",
+        "role": "Member",
+        "image": ""
       }
+      
     ]
   },
   {
@@ -337,6 +389,16 @@
         "name": "Krishna",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Govind",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aarav Sachin Vijan",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
@@ -345,6 +407,41 @@
     "members": [
       {
         "name": "Kanav Lall",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Yadavi Mehrotra",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Saanvi Verma",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Vihaan Sureka",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Kavya Dayal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Tushar Khandelwaal",
+        "role": "Member",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "year": "6th",
+    "members": [
+      {
+        "name": "Aadvik Jain",
         "role": "Member",
         "image": ""
       }
