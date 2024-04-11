@@ -1,122 +1,6 @@
 [
   {
     "year": "12th",
-
-    "members": [
-      {
-        "name": "Pratyush Vempati",
-        "role": "President",
-        "image": "./images/pratyush.jpg"
-      },
-      {
-        "name": "Adi Mathur",
-        "role": "Vice President",
-        "image": ""
-      },     
-      {
-        "name": "Yoovan Pattnaik",
-        "role": "Director",
-        "image": ""
-      },
-      {
-        "name": "Anup Dev Pattnaik",
-        "role": "Director",
-        "image": ""
-      },
-      {
-        "name": "Eshan Sharma",
-        "role": "Director",
-        "image": ""
-      },
-      {
-        "name": "Kanishka Verma",
-        "role": "Chief Advisor",
-        "image": ""
-      },
-      {
-        "name": "Siddhartha Verma",
-        "role": "Chief Advisor",
-        "image": ""
-      },
-      {
-        "name": "Garv Jain",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Hitaarth Soni",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Shivansh Gupta",
-        "role": "Member",
-        "image": "./images/shivansh.jpg"
-      },
-      {
-        "name": "Augustya Adityadi",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Navya Garg",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Mridul Agarwal",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Sneha Pandey",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Apoorva Ghadge",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Stuti Kathuria",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Nehaara Kaushik",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Pihu Upadhyay",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Tia Mehtani",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Parav Jaikrishan",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Dhananjay Bhattacharya",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Mana Sharma",
-        "role": "Member",
-        "image": ""
-      }
-    ]
-  },
-  {
-    "year": "11th",
     "members": [
       {
         "name": "Tejas Agarwal",
@@ -228,11 +112,10 @@
         "role": "Member",
         "image": ""
       }
-      
     ]
   },
   {
-    "year": "10th",
+    "year": "11th",
     "members": [
       {
         "name": "Darsh Sikka",
@@ -307,7 +190,7 @@
     ]
   },
   {
-    "year": "9th",
+    "year": "10th",
     "members": [
       {
         "name": "Ayon Choudhury",
@@ -374,11 +257,10 @@
         "role": "Member",
         "image": ""
       }
-      
     ]
   },
   {
-    "year": "8th",
+    "year": "9th",
     "members": [
       {
         "name": "Nanya Gupta",
@@ -403,7 +285,7 @@
     ]
   },
   {
-    "year": "7th",
+    "year": "8th",
     "members": [
       {
         "name": "Kanav Lall",
@@ -438,7 +320,7 @@
     ]
   },
   {
-    "year": "6th",
+    "year": "7th",
     "members": [
       {
         "name": "Aadvik Jain",

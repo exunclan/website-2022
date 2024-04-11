@@ -38,15 +38,15 @@ export default function Resources() {
           </h2>
           <p className="text-lg text-accent-dark text-light mt-2 md:mt-3 lg:mt-6 tracking-wider">
             Let us know if the resources were helpful in your
-            <br />
-            learning experience{" "}
+            <br></br>
+            learning experience by mailing to us at{" "}
             <a
-              href="https://docs.google.com/forms/d/1awwX8ejmJE6Hvf4sfTyPI7weqZAYzYycnzFrCkygE4g/edit?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="text-primary underline"
+              href="mailto:exun@dpsrkp.net"
             >
-              here
+              exun@dpsrkp.net
             </a>
             .
           </p>
