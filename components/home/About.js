@@ -14,7 +14,7 @@ export default function About({ aboutRef }) {
               design.
             </p>
             <p className="mt-8">
-               Under the mentorship of Mr. Mukesh Kumar, its founder &
+              Under the mentorship of Mr. Mukesh Kumar, its founder &
               teacher-in-charge, Exun has emerged as the foremost high-school
               technology club of India, with its members winning inter-school,
               national, and international competitions on a regular basis. Exun
