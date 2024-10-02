@@ -1,14 +1,39 @@
 [
   {
     "year": "12th",
-    "members": [
+    "members": [     
       {
-        "name": "Tejas Agarwal",
-        "role": "Member",
+        "name": "Shreyansh Agarwal",
+        "role": "President",
+        "image": ""
+      },     
+      {
+        "name": "Ananya Mangla",
+        "role": "President",
+        "image": ""
+      },      
+      {
+        "name": "Aarav Dayal",
+        "role": "Vice President",
+        "image": ""
+      },      
+      {
+        "name": "Aaahana Mehrotra",
+        "role": "Vice President",
+        "image": ""
+      },     
+      {
+        "name": "Atharv Varshney",
+        "role": "Director",
+        "image": ""
+      },      
+      {
+        "name": "Aryamaan Goswamy",
+        "role": "Director",
         "image": ""
       },
       {
-        "name": "Aarav Dayal",
+        "name": "Tejas Agarwal",
         "role": "Member",
         "image": ""
       },
@@ -38,22 +63,7 @@
         "image": ""
       },
       {
-        "name": "Shreyansh Agarwal",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Aarush Semwal",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Ananya Mangla",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Aaahana Mehrotra",
         "role": "Member",
         "image": ""
       },
@@ -79,16 +89,6 @@
       },
       {
         "name": "Shresth Singh",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Atharv Varshney",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Aryamaan Goswamy",
         "role": "Member",
         "image": ""
       },
