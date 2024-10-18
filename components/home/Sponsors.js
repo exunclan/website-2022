@@ -2,74 +2,14 @@ import { useState, useEffect } from "react";
 
 const sponsors = [
     {
-        imageUrl: "/sponsors/khulke.png",
-        alt: "Khulke",
-        link: "https://www.khulke.com/",
+        imageUrl: "/sponsors/athena.png",
+        alt: "Athena Education",
+        link: "https://www.athenaeducation.co.in/",
         height: "200px",
-    },
-    {
-        imageUrl: "/sponsors/Safexpress_Logo.png",
-        alt: "Safexpress",
-        link: "https://www.safexpress.com/",
-        height: "200px",
-    },
-    {
-        imageUrl: "/sponsors/plaksha.png",
-        alt: "Plaksha",
-        link: "https://plaksha.edu.in/",
-        height: "130px",
     },
 ];
 
-const partners = [
-    {
-        imageUrl: "/sponsors/rosenfield.png",
-        alt: "Rosenfeld",
-        link: "https://rosenfeldmedia.com/",
-        height: "90px",
-    },
-    {
-        imageUrl: "/sponsors/echo3d.png",
-        alt: "Echo 3D",
-        link: "https://echo3d.co",
-    },
-    {
-        imageUrl: "/sponsors/interview-cake.png",
-        alt: "Interview Cake",
-        link: "https://www.interviewcake.com/",
-        height: "70px",
-    },
-    {
-        imageUrl: "/sponsors/xyz.png",
-        alt: ".xyz Domains",
-        link: "https://gen.xyz",
-        height: "70px",
-    },
-    {
-        imageUrl: "/sponsors/cubelelo.png",
-        alt: "Cubelelo",
-        link: "https://www.cubelelo.com/",
-        height: "160px",
-    },
-    {
-        imageUrl: "/sponsors/wolfram.png",
-        alt: "Wolfram Language",
-        link: "https://www.wolframalpha.com/",
-        height: "90px",
-    },
-    {
-        imageUrl: "/sponsors/playstation.png",
-        alt: "PlayStation",
-        link: "https://www.playstation.com/",
-        height: "70px",
-    },
-    {
-        imageUrl: "/sponsors/aops.png",
-        alt: "AOPS",
-        link: "https://artofproblemsolving.com/",
-        height: "100px",
-    },
-];
+const partners = [];
 
 function SponsorImage({ key, imageUrl, alt, img_height }) {
     return (
@@ -115,21 +55,27 @@ export default function Sponsors() {
                 ))}
             </div>
 
-            <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
-                Community Partners
-            </h1>
-            <div className="flex flex-wrap items-center justify-center mt-5 gap-8">
-                {partners.map(({ imageUrl, alt, link, height }, i) => (
-                    <a key={i} href={link} target="_blank" rel="noreferrer">
-                        <SponsorImage
-                            key={i}
-                            imageUrl={imageUrl}
-                            alt={alt}
-                            img_height={height ? height : ImgHeight}
-                        />
-                    </a>
-                ))}
-            </div>
+            {
+                partners && partners.length
+                    ? <>
+                        <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
+                            Community Partners
+                        </h1>
+                        <div className="flex flex-wrap items-center justify-center mt-5 gap-8">
+                            {partners.map(({ imageUrl, alt, link, height }, i) => (
+                                <a key={i} href={link} target="_blank" rel="noreferrer">
+                                    <SponsorImage
+                                        key={i}
+                                        imageUrl={imageUrl}
+                                        alt={alt}
+                                        img_height={height ? height : ImgHeight}
+                                    />
+                                </a>
+                            ))}
+                        </div>
+                    </>
+                    : null
+            }
         </div>
     );
 }
