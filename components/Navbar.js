@@ -73,7 +73,7 @@ export default function Navbar() {
           </Link>
         ))}
         <a
-          href="//lnexun.com"
+          href="//lnexunofficial.blogspot.com"
           target="_blank"
           rel="noreferrer"
           className="button hidden lg:inline-block"
