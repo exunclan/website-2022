@@ -46,7 +46,7 @@ export default function Footer() {
         </a>
       </div>
       <div className="text-[15px] mb-1">
-        <a target="_blank" href="//lnexun.com" rel="noreferrer">
+        <a target="_blank" href="//lnexunofficial.blogspot.com" rel="noreferrer">
           Natural Log of Exun - ln(exun)
         </a>{" "}
         |{" "}
