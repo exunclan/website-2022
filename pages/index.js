@@ -16,7 +16,7 @@ export default function Home() {
       <div>
         <div className="px-5 md:px-20 mx-auto max-w-[1400px] w-full">
           <Hero scrollToAboutRef={scrollToAboutRef} />
-          {/* <Sponsors /> */}
+          <Sponsors />
           <About aboutRef={aboutRef} />
           <Videos />
         </div>

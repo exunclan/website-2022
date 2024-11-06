@@ -1,12 +1,30 @@
 import { useState, useEffect } from "react";
 
 const sponsors = [
-    {
-        imageUrl: "/sponsors/athena.png",
-        alt: "Athena Education",
-        link: "https://www.athenaeducation.co.in/",
-        height: "200px",
-    },
+  {
+    imageUrl: "/sponsors/athena.png",
+    alt: "Athena Education",
+    link: "https://www.athenaeducation.co.in/",
+    height: "200px",
+  },
+  {
+    imageUrl: "/sponsors/playstation.png",
+    alt: "Playstation",
+    link: "https://www.playstation.com/",
+    height: "75px",
+  },
+  {
+    imageUrl: "/sponsors/cubelelo.png",
+    alt: "Cubelelo",
+    link: "https://www.cubelelo.com/",
+    height: "150px",
+  },
+  {
+    imageUrl: "/sponsors/pebble.webp",
+    alt: "Pebble",
+    link: "",
+    height: "150px",
+  }
 ];
 
 const partners = [];
