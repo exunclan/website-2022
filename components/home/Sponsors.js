@@ -2,12 +2,6 @@ import { useState, useEffect } from "react";
 
 const sponsors = [
   {
-    imageUrl: "/sponsors/athena.png",
-    alt: "Athena Education",
-    link: "https://www.athenaeducation.co.in/",
-    height: "200px",
-  },
-  {
     imageUrl: "/sponsors/playstation.png",
     alt: "Playstation",
     link: "https://www.playstation.com/",
@@ -24,7 +18,14 @@ const sponsors = [
     alt: "Pebble",
     link: "",
     height: "150px",
-  }
+  },
+  {
+    imageUrl: "/sponsors/athena.png",
+    alt: "Athena Education",
+    link: "https://www.athenaeducation.co.in/",
+    height: "200px",
+  },
+
 ];
 
 const partners = [];
@@ -60,7 +61,7 @@ export default function Sponsors() {
             <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
                 Event Partners
             </h1>
-            <div className="flex flex-wrap items-center justify-center gap-5">
+            <div className="flex flex-wrap items-center justify-center gap-10">
                 {sponsors.map(({ imageUrl, alt, link, height }, i) => (
                     <a key={i} href={link} target="_blank" rel="noreferrer">
                         <SponsorImage
