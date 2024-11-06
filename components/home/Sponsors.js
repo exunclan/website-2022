@@ -60,7 +60,7 @@ export default function Sponsors() {
             <h1 className="text-3xl md:text-6xl font-bold text-accent-dark my-8 mt-[130px]">
                 Event Partners
             </h1>
-            <div className="flex flex-wrap items-center justify-center gap-4">
+            <div className="flex flex-wrap items-center justify-center gap-5">
                 {sponsors.map(({ imageUrl, alt, link, height }, i) => (
                     <a key={i} href={link} target="_blank" rel="noreferrer">
                         <SponsorImage
