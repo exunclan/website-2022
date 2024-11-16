@@ -22,7 +22,7 @@ const sponsors = [
   {
     imageUrl: "/sponsors/pebble.webp",
     alt: "Pebble",
-    link: "",
+    link: "https://www.pebbleindia.in",
     height: "150px",
   },
 ];
