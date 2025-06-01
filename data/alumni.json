@@ -1,5 +1,121 @@
 [
   {
+    "year": "2024-25",
+
+    "alumni": [     
+      {
+        "name": "Shreyansh Agarwal",
+        "role": "President",
+        "image": ""
+      },     
+      {
+        "name": "Ananya Mangla",
+        "role": "President",
+        "image": ""
+      },      
+      {
+        "name": "Aarav Dayal",
+        "role": "Vice President",
+        "image": ""
+      },      
+      {
+        "name": "Aaahana Mehrotra",
+        "role": "Vice President",
+        "image": ""
+      },     
+      {
+        "name": "Atharv Varshney",
+        "role": "Director",
+        "image": ""
+      },      
+      {
+        "name": "Aryamaan Goswamy",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Tejas Agarwal",
+        "role": "Chief Advisor",
+        "image": ""
+      },
+      {
+        "name": "Aarush Semwal",
+        "role": "Chief Advisor",
+        "image": ""
+      },
+      {
+        "name": "Shreya Nirvan",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Saksham Raheja",
+        "role": "Member",
+        "image": "./images/saksham.jpg"
+      },
+      {
+        "name": "Avni Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shiven Kanodia",
+        "role": "Member",
+        "image": "./images/shiven.jpg"
+      },
+      {
+        "name": "Samik Tuteja",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Mannat Kaur",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aanya Yaduvanshi",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aikagra Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "S Shrikirti",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shresth Singh",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shreyadita Kadian",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Maverick Hemam",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Saksham Singhal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Sanyam Asthana",
+        "role": "Member",
+        "image": ""
+      }
+    ]
+  },
+  {
     "year": "2023-24",
 
     "alumni": [
