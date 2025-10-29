@@ -1,129 +1,44 @@
 [
   {
     "year": "12th",
-    "members": [     
-      {
-        "name": "Shreyansh Agarwal",
-        "role": "President",
-        "image": ""
-      },     
-      {
-        "name": "Ananya Mangla",
-        "role": "President",
-        "image": ""
-      },      
-      {
-        "name": "Aarav Dayal",
-        "role": "Vice President",
-        "image": ""
-      },      
-      {
-        "name": "Aaahana Mehrotra",
-        "role": "Vice President",
-        "image": ""
-      },     
-      {
-        "name": "Atharv Varshney",
-        "role": "Director",
-        "image": ""
-      },      
-      {
-        "name": "Aryamaan Goswamy",
-        "role": "Director",
-        "image": ""
-      },
-      {
-        "name": "Tejas Agarwal",
-        "role": "Chief Advisor",
-        "image": ""
-      },
-      {
-        "name": "Aarush Semwal",
-        "role": "Chief Advisor",
-        "image": ""
-      },
-      {
-        "name": "Shreya Nirvan",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Saksham Raheja",
-        "role": "Member",
-        "image": "./images/saksham.jpg"
-      },
-      {
-        "name": "Avni Gupta",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Shiven Kanodia",
-        "role": "Member",
-        "image": "./images/shiven.jpg"
-      },
-      {
-        "name": "Samik Tuteja",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Mannat Kaur",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Aanya Yaduvanshi",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Aikagra Gupta",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "S Shrikirti",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Shresth Singh",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Shreyadita Kadian",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Maverick Hemam",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Saksham Singhal",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Sanyam Asthana",
-        "role": "Member",
-        "image": ""
-      }
-    ]
-  },
-  {
-    "year": "11th",
     "members": [
       {
-        "name": "Darsh Sikka",
-        "role": "Member",
+        "name": "Nabhay Khanna",
+        "role": "President",
         "image": ""
       },
       {
         "name": "Ananya Shrivastav",
+        "role": "President",
+        "image": ""
+      },
+      {
+        "name": "Atharv Agarwal",
+        "role": "Vice President",
+        "image": ""
+      },
+      {
+        "name": "Ahaan Purohit",
+        "role": "Vice President",
+        "image": ""
+      },
+      {
+        "name": "Suhani Mishra",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Aayush Gaur",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Vedant Tejaswi",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Darsh Sikka",
         "role": "Member",
         "image": ""
       },
@@ -168,16 +83,6 @@
         "image": ""
       },
       {
-        "name": "Ahaan Purohit",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Nabhay Khanna",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Manvik Kumar",
         "role": "Member",
         "image": ""
@@ -186,12 +91,27 @@
         "name": "Neil Saksena",
         "role": "Member",
         "image": ""
+      },
+      {
+        "name": "Tijil Agrawal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Swapnil Suraj",
+        "role": "Member",
+        "image": ""
       }
     ]
   },
   {
-    "year": "10th",
+    "year": "11th",
     "members": [
+      {
+        "name": "Aditya Das",
+        "role": "Member",
+        "image": ""
+      },
       {
         "name": "Ayon Choudhury",
         "role": "Member",
@@ -203,7 +123,12 @@
         "image": ""
       },
       {
-        "name": "Akansh Rajan",
+        "name": "Divyansh Jai Purohit",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Navika Yadav",
         "role": "Member",
         "image": ""
       },
@@ -248,6 +173,16 @@
         "image": ""
       },
       {
+        "name": "Vivaan Jha",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Ananya Datta",
+        "role": "Member",
+        "image": ""
+      },
+      {
         "name": "Anika Agarwal",
         "role": "Member",
         "image": ""
@@ -260,10 +195,10 @@
     ]
   },
   {
-    "year": "9th",
+    "year": "10th",
     "members": [
       {
-        "name": "Nanya Gupta",
+        "name": "Siddhant Dubey",
         "role": "Member",
         "image": ""
       },
@@ -278,17 +213,37 @@
         "image": ""
       },
       {
-        "name": "Aarav Sachin Vijan",
+        "name": "Ayush Goyal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Kshitij Chatterjee",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Nanya Gupta",
         "role": "Member",
         "image": ""
       }
     ]
   },
   {
-    "year": "8th",
+    "year": "9th",
     "members": [
       {
         "name": "Kanav Lall",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Kavya Dayal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Ayan Alam",
         "role": "Member",
         "image": ""
       },
@@ -308,7 +263,7 @@
         "image": ""
       },
       {
-        "name": "Kavya Dayal",
+        "name": "Hursh Bajaj",
         "role": "Member",
         "image": ""
       },
@@ -320,7 +275,7 @@
     ]
   },
   {
-    "year": "7th",
+    "year": "8th",
     "members": [
       {
         "name": "Aadvik Jain",
