@@ -4,27 +4,37 @@
     "members": [
       {
         "name": "Nabhay Khanna",
-        "role": "President",
+        "role": "Senior Member",
         "image": ""
       },
       {
         "name": "Ananya Shrivastav",
-        "role": "President",
+        "role": "Senior Member",
         "image": ""
       },
       {
         "name": "Atharv Agarwal",
-        "role": "Vice President",
+        "role": "Senior Member",
         "image": ""
       },
       {
         "name": "Ahaan Purohit",
-        "role": "Vice President",
+        "role": "Senior Member",
         "image": ""
       },
       {
         "name": "Suhani Mishra",
-        "role": "Director",
+        "role": "Senior Member",
+        "image": ""
+      },
+      {
+        "name": "Tijil Agrawal",
+        "role": "Senior Member",
+        "image": ""
+      },
+      {
+        "name": "Swapnil Suraj",
+        "role": "Senior Member",
         "image": ""
       },
       {
@@ -93,12 +103,7 @@
         "image": ""
       },
       {
-        "name": "Tijil Agrawal",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Swapnil Suraj",
+        "name": "Aryan Pandey",
         "role": "Member",
         "image": ""
       }
