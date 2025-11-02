@@ -3,7 +3,7 @@
     "title": "",
     "members": [
       {
-        "name": "Ms. Padma Srinivasan",
+        "name": "Mr. Anil Kumar",
         "role": "Principal",
         "image": "./images/principal.jpg"
       },
@@ -13,8 +13,23 @@
         "image": "./images/sensei.jpg"
       },
       {
+        "name": "Mr. Naresh Miglani",
+        "role": "Vice Principal",
+        "image": "./images/sensei.jpg"
+      },
+      {
+        "name": "Mr. Anil Kathuria",
+        "role": "Vice Principal",
+        "image": "./images/sensei.jpg"
+      },
+      {
+        "name": "Ms. Rashmi Malhotra",
+        "role": "Vice Principal, Founder",
+        "image": "./images/sensei.jpg"
+      },
+      {
         "name": "Hema Jain",
-        "role": "Coordinator",
+        "role": "HOD, Computer Science & Teacher In-Charge",
         "image": "./images/hemamaam.jpg"
       },
       {
