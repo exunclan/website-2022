@@ -1,6 +1,12 @@
 import { useState, useEffect } from "react";
 
 const sponsors = [
+{
+    imageUrl: "/sponsors/intel.png",
+    alt: "Intel",
+    link: "https://www.intel.com/",
+    height: "200px",
+  },
   {
     imageUrl: "/sponsors/athena.png",
     alt: "Athena Education",
@@ -18,13 +24,7 @@ const sponsors = [
     alt: "Cubelelo",
     link: "https://www.cubelelo.com/",
     height: "150px",
-  },
-  {
-    imageUrl: "/sponsors/pebble.webp",
-    alt: "Pebble",
-    link: "",
-    height: "150px",
-  },
+  }
 ];
 
 const partners = [];
