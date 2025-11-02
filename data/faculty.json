@@ -24,46 +24,41 @@
       },
       {
         "name": "Ms. Rashmi Malhotra",
-        "role": "Vice Principal, Founder",
+        "role": "Vice Principal",
         "image": "./images/sensei.jpg"
       },
       {
-        "name": "Hema Jain",
+        "name": "Ms. Hema Jain",
         "role": "HOD, Computer Science & Teacher In-Charge",
         "image": "./images/hemamaam.jpg"
       },
       {
-        "name": "Mohit Dey",
+        "name": "Mr. Mohit Dey",
         "role": "Coordinator",
         "image": "./images/mohitsir.jpg"
       },
       {
-        "name": "Sangeeta Rana",
-        "role": "Faculty",
-        "image": "./images/sangeetamaam.jpg"
-      },
-      {
-        "name": "Shalini Harisukh",
+        "name": "Ms. Shalini Harisukh",
         "role": "Faculty",
         "image": "./images/shalinimaam.jpg"
       },
       {
-        "name": "Sarika Kaushal",
+        "name": "Ms. Sarika Kaushal",
         "role": "Faculty",
         "image": "./images/sarikamaam.jpg"
       },
       {
-        "name": "Anjana Virmani",
+        "name": "Ms. Anjana Virmani",
         "role": "Faculty",
         "image": "./images/anjanamaam.jpg"
       },
       {
-        "name": "Shekhar Sharma",
+        "name": "Mr. Shekhar Sharma",
         "role": "Faculty",
         "image": "./images/shekharsir.jpg"
       },
       {
-        "name": "Ajithkumar K.G.",
+        "name": "Mr. Ajithkumar K.G.",
         "role": "Faculty",
         "image": "./images/ajithsir.jpg"
       }
@@ -73,22 +68,22 @@
     "title": "Exun Tech Support",
     "members": [
       {
-        "name": "Diny Mathew",
+        "name": "Mr. Diny Mathew",
         "role": "Tech Support",
         "image": "./images/dinysir.jpg"
       },
       {
-        "name": "Thomas CA",
+        "name": "Mr. Thomas CA",
         "role": "Tech Support",
         "image": "./images/thomassir.jpg"
       },
       {
-        "name": "KV Joseph",
+        "name": "Mr. KV Joseph",
         "role": "Tech Support",
         "image": "./images/josephsir.jpg"
       },
       {
-        "name": "Shankar Giri",
+        "name": "Mr. Shankar Giri",
         "role": "Tech Support",
         "image": "./images/shankarsir.jpg"
       }
@@ -98,12 +93,12 @@
     "title": "Exun Support Team",
     "members": [
       {
-        "name": "Ram Kumar",
+        "name": "Mr. Ram Kumar",
         "role": "Support Team",
         "image": "./images/Ramkumar_sir.png"
       },
       {
-        "name": "Kali Ram",
+        "name": "Mr. Kali Ram",
         "role": "Support Team",
         "image": "./images/vijaylal.jpg"
       }
