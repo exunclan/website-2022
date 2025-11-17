@@ -24,6 +24,12 @@ const sponsors = [
     alt: "Cubelelo",
     link: "https://www.cubelelo.com/",
     height: "150px",
+  },
+  {
+    imageUrl: "/sponsors/xyz.png",
+    alt: "Cubelelo",
+    link: "https://www.gen.xyz/",
+    height: "75px",
   }
 ];
 
