@@ -4,6 +4,7 @@ const nextConfig = {
   swcMinify: true,
   images: {
     domains: ['img.youtube.com'],
+    unoptimized: true,
   }
 }
 
