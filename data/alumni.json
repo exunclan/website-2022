@@ -1,32 +1,142 @@
 [
   {
+    "year": "2025-2026",
+    "alumni": [
+      {
+        "name": "Nabhay Khanna",
+        "role": "President",
+        "image": ""
+      },
+      {
+        "name": "Ananya Shrivastav",
+        "role": "President",
+        "image": ""
+      },
+      {
+        "name": "Atharv Agarwal",
+        "role": "Vice President",
+        "image": ""
+      },
+      {
+        "name": "Ahaan Purohit",
+        "role": "Vice President",
+        "image": ""
+      },
+      {
+        "name": "Suhani Mishra",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Tijil Agrawal",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Vedant Tejaswi",
+        "role": "Honorary Chief Advisor",
+        "image": ""
+      },
+      {
+        "name": "Manvik Kumar",
+        "role": "Honorary Chief Advisor",
+        "image": ""
+      },
+      {
+        "name": "Swapnil Suraj",
+        "role": "Member",
+        "image": ""
+      },
+       {
+        "name": "Neil Saksena",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aayush Gaur",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Darsh Sikka",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shaurya Pratap Srivastava",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Anav Jain",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Pavni Goel",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Shaurya Malhotra",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Abhiveer Luthra",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aryaman M Reddy",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Anwita Chandra",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Zonish Siddiqui",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aryan Pandey",
+        "role": "Member",
+        "image": ""
+      }
+    ]
+  },
+  {
     "year": "2024-2025",
-    "alumni": [     
+    "alumni": [
       {
         "name": "Shreyansh Agarwal",
         "role": "President",
         "image": ""
-      },     
+      },
       {
         "name": "Ananya Mangla",
         "role": "President",
         "image": ""
-      },      
+      },
       {
         "name": "Aarav Dayal",
         "role": "Vice President",
         "image": ""
-      },      
+      },
       {
         "name": "Aaahana Mehrotra",
         "role": "Vice President",
         "image": ""
-      },     
+      },
       {
         "name": "Atharv Varshney",
         "role": "Director",
         "image": ""
-      },      
+      },
       {
         "name": "Aryamaan Goswamy",
         "role": "Director",

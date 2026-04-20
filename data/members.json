@@ -3,115 +3,10 @@
     "year": "12th",
     "members": [
       {
-        "name": "Nabhay Khanna",
-        "role": "President",
-        "image": ""
-      },
-      {
-        "name": "Ananya Shrivastav",
-        "role": "President",
-        "image": ""
-      },
-      {
-        "name": "Atharv Agarwal",
-        "role": "Vice President",
-        "image": ""
-      },
-      {
-        "name": "Ahaan Purohit",
-        "role": "Vice President",
-        "image": ""
-      },
-      {
-        "name": "Suhani Mishra",
-        "role": "Director",
-        "image": ""
-      },
-      {
-        "name": "Tijil Agrawal",
-        "role": "Director",
-        "image": ""
-      },
-      {
-        "name": "Vedant Tejaswi",
-        "role": "Honorary Chief Advisor",
-        "image": ""
-      },
-      {
-        "name": "Manvik Kumar",
-        "role": "Honorary Chief Advisor",
-        "image": ""
-      },
-      {
-        "name": "Swapnil Suraj",
-        "role": "Senior Member",
-        "image": ""
-      },
-       {
-        "name": "Neil Saksena",
-        "role": "Senior Member",
-        "image": ""
-      },
-      {
-        "name": "Aayush Gaur",
+        "name": "Anika Gupta",
         "role": "Member",
         "image": ""
       },
-      {
-        "name": "Darsh Sikka",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Shaurya Pratap Srivastava",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Anav Jain",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Pavni Goel",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Shaurya Malhotra",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Abhiveer Luthra",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Aryaman M Reddy",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Anwita Chandra",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Zonish Siddiqui",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Aryan Pandey",
-        "role": "Member",
-        "image": ""
-      }
-    ]
-  },
-  {
-    "year": "11th",
-    "members": [
       {
         "name": "Aditya Das",
         "role": "Member",
@@ -191,16 +86,11 @@
         "name": "Anika Agarwal",
         "role": "Member",
         "image": ""
-      },
-      {
-        "name": "Anika Gupta",
-        "role": "Member",
-        "image": ""
       }
     ]
   },
   {
-    "year": "10th",
+    "year": "11th",
     "members": [
       {
         "name": "Siddhant Dubey",
@@ -235,7 +125,7 @@
     ]
   },
   {
-    "year": "9th",
+    "year": "10th",
     "members": [
       {
         "name": "Kanav Lall",
@@ -280,7 +170,7 @@
     ]
   },
   {
-    "year": "8th",
+    "year": "9th",
     "members": [
       {
         "name": "Aadvik Jain",
