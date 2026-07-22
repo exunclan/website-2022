@@ -3,6 +3,18 @@
     "type": "3D",
     "content": [
       {
+        "title": "Sudocrypt v13.0 Trailer",
+        "link": "https://www.youtube.com/watch?v=IUDRAPW3z8c"
+      },
+      {
+        "title": "Sudocrypt v13.0 Teaser",
+        "link": "https://www.youtube.com/watch?v=oOnXntskCak"
+      },
+      {
+        "title": "Sudocrypt v12.0 Trailer",
+        "link": "https://www.youtube.com/watch?v=Q-4MSGe5ROE"
+      },
+      {
         "title": "Sudocrypt v11.0 Trailer",
         "link": "https://www.youtube.com/watch?v=V_HjXwoRlAM"
       },
@@ -23,6 +35,58 @@
   {
     "type": "Design",
     "content": [
+      {
+        "title": "Scoop",
+        "link": "https://www.behance.net/gallery/252156705/Scoop-Rumour-To-Reality-Translator"
+      },
+      {
+        "title": "Project Mayhem",
+        "link": "https://www.behance.net/gallery/237641539/Fight-Club-Project-Mayhem"
+      },
+      {
+        "title": "Theseus",
+        "link": "https://www.behance.net/gallery/236804887/Theseus-nCrypt-2025"
+      },
+      {
+        "title": "Intelligentsia",
+        "link": "https://www.behance.net/gallery/236808339/Intelligentsia-COjaE"
+      },
+      {
+        "title": "ENP",
+        "link": "https://www.behance.net/gallery/233037989/ENP-MINETX"
+      },
+      {
+        "title": "Travis Scott",
+        "link": "https://www.behance.net/gallery/231185213/TRAVIS-SCOTT-Syntax-v91"
+      },
+      {
+        "title": "Prakritik",
+        "link": "https://www.behance.net/gallery/229901133/-ByteIT"
+      },
+      {
+        "title": "Vintage Macintosh",
+        "link": "https://www.behance.net/gallery/213170657/Vintage-Macintosh-Poster"
+      },
+      {
+        "title": "Exun 2023 Illustration",
+        "link": "https://www.behance.net/gallery/199612789/Main-Illustration-Exun-2023"
+      },
+      {
+        "title": "Mystery Inc",
+        "link": "https://www.behance.net/gallery/211765411/Mystery-Inc-Project"
+      },
+      {
+        "title": "Gali Tadke",
+        "link": "https://www.behance.net/gallery/205745247/Gali-Tadke-by-Chaar-Diwaari"
+      },
+      {
+        "title": "Rags and Bones",
+        "link": "https://www.behance.net/gallery/204456387/Rags-and-Bones-Branding-(Food-Chain)"
+      },
+      {
+        "title": "Talisman",
+        "link": "https://www.behance.net/gallery/185243523/Talisman-Branding-UIUX"
+      },
       {
         "title": "Chocolate Factory",
         "link": "https://www.behance.net/gallery/132611583/Charlie-and-the-Chocolate-Factory-UIUX-video-3D"
@@ -124,6 +188,42 @@
     "type": "Web Development",
     "content": [
       {
+        "title": "Valence",
+        "link": "https://github.com/soulshadow8326/valence"
+      },
+      {
+        "title": "Intrasudo v7.0",
+        "link": "https://github.com/soulshadow8326/intrasudo26"
+      },
+      {
+        "title": "fight club",
+        "link": "https://github.com/SoulShadow8326/cw25"
+      },
+      {
+        "title": "Theseus",
+        "link": "https://github.com/SoulShadow8326/theseus"
+      },
+      {
+        "title": "exML 2025",
+        "link": "https://github.com/SoulShadow8326/exml25"
+      },
+      {
+        "title": "Sudocrypt v15.0",
+        "link": "https://github.com/SoulShadow8326/sudocrypt25"
+      },
+      {
+        "title": "ENP",
+        "link": "https://github.com/Emptiedfull/MINET"
+      },
+      {
+        "title": "Sudocrypt v14.0",
+        "link": "https://github.com/exunclan/sudocrypt24"
+      },
+      {
+        "title": "exML 2024",
+        "link": "https://github.com/Emptiedfull/exML"
+      },
+      {
         "title": "Exun Website",
         "link": "https://github.com/exunclan/website-2022/"
       },
@@ -169,6 +269,10 @@
     "type": "Competitive Programming",
     "content": [
       {
+        "title": "Exun 2025",
+        "link": "https://www.codechef.com/START213"
+      },
+      {
         "title": "Exun 2021-22",
         "link": "https://www.codechef.com/EXUN2021"
       },
@@ -204,7 +308,7 @@
       {
         "title": "Pashu",
         "link": "https://github.com/pulkitgarg784/Pashu"
-      }   
+      }
     ]
   }
 ]

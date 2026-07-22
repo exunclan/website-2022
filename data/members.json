@@ -8,52 +8,12 @@
         "image": ""
       },
       {
-        "name": "Aditya Das",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Ayon Choudhury",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Agrima Verma",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Divyansh Jai Purohit",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Navika Yadav",
         "role": "Member",
         "image": ""
       },
       {
-        "name": "Neil Sindwani",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Tarush Aran",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Avika Jain",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Ahaana Pandit",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Dishita Negi",
+        "name": "Aditya Das",
         "role": "Member",
         "image": ""
       },
@@ -63,7 +23,27 @@
         "image": ""
       },
       {
+        "name": "Anika Agarwal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Agrima Verma",
+        "role": "Member",
+        "image": ""
+      },
+      {
         "name": "Shashank Roy",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Akansh Rajan",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Ayon Choudhury",
         "role": "Member",
         "image": ""
       },
@@ -73,7 +53,32 @@
         "image": ""
       },
       {
-        "name": "Vivaan Jha",
+        "name": "Ahaana Pandit",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Avika Jain",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Dishita Negi",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Tarush Aran",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Neil Sindwani",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Divyansh Jai Purohit",
         "role": "Member",
         "image": ""
       },
@@ -83,7 +88,17 @@
         "image": ""
       },
       {
-        "name": "Anika Agarwal",
+        "name": "Vivaan Jha",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Parth Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aamir Shahedi",
         "role": "Member",
         "image": ""
       }
@@ -98,12 +113,22 @@
         "image": ""
       },
       {
-        "name": "Krishna",
+        "name": "Arhaan Sharma",
         "role": "Member",
         "image": ""
       },
       {
-        "name": "Govind",
+        "name": "Nikunj Kohli",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Anshuman",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Akshara Agrawal",
         "role": "Member",
         "image": ""
       },
@@ -113,12 +138,32 @@
         "image": ""
       },
       {
+        "name": "Govind Narayan",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Krishna Naraayan",
+        "role": "Member",
+        "image": ""
+      },
+      {
         "name": "Kshitij Chatterjee",
         "role": "Member",
         "image": ""
       },
       {
+        "name": "Devansh Saini",
+        "role": "Member",
+        "image": ""
+      },
+      {
         "name": "Nanya Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Riya Tayal",
         "role": "Member",
         "image": ""
       }
@@ -128,27 +173,7 @@
     "year": "10th",
     "members": [
       {
-        "name": "Kanav Lall",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Kavya Dayal",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Ayan Alam",
-        "role": "Member",
-        "image": ""
-      },
-      {
         "name": "Yadavi Mehrotra",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Saanvi Verma",
         "role": "Member",
         "image": ""
       },
@@ -158,12 +183,57 @@
         "image": ""
       },
       {
-        "name": "Hursh Bajaj",
+        "name": "Divij Choradia",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Kanav Lall",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Saanvi Verma",
         "role": "Member",
         "image": ""
       },
       {
         "name": "Tushar Khandelwaal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Hursh Bajaj",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Kavya Dayal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Adyan Siddiqui",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Vivaan Gupta",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Vihaan Pundir",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Aniket Agrawal",
+        "role": "Member",
+        "image": ""
+      },
+      {
+        "name": "Ayan Alam",
         "role": "Member",
         "image": ""
       }
