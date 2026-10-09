@@ -35,7 +35,7 @@ export default function Hero({ scrollToAboutRef }) {
       </div>
       <Image
         className="z-[1]"
-        src="/mainillus2025.png"
+        src="/mainillus2026.webp"
         width={750}
         height={625}
         alt="Hero Image"
