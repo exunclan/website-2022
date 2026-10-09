@@ -1,5 +1,32 @@
 // This file is used to store old sponsors for later use.
 
+/* Exun 2025 sponsors
+[{
+    imageUrl: "/sponsors/intel.png",
+    alt: "Intel",
+    link: "https://www.intel.com/",
+    height: "200px",
+  },
+  {
+    imageUrl: "/sponsors/athena.png",
+    alt: "Athena Education",
+    link: "https://www.athenaeducation.co.in/",
+    height: "200px",
+  },
+  {
+    imageUrl: "/sponsors/playstation.png",
+    alt: "Playstation",
+    link: "https://www.playstation.com/",
+    height: "75px",
+  },
+  {
+    imageUrl: "/sponsors/cubelelo.png",
+    alt: "Cubelelo",
+    link: "https://www.cubelelo.com/",
+    height: "150px",
+  }
+];*/
+
 // Sponsors -------------------------
 
 /*
