@@ -5,7 +5,7 @@ const sponsors = [
     imageUrl: "/sponsors/intel.png",
     alt: "Intel",
     link: "https://www.intel.com/",
-    height: "200px",
+    height: "250px",
   },
   {
     imageUrl: "/sponsors/jane_street.png",
