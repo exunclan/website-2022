@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { showExunToast } from "../../lib/exunToast";
 
-const registrationOpen = false;
+const registrationOpen = true;
 
 export default function Hero({ scrollToAboutRef }) {
   return (
