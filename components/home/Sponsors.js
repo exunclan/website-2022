@@ -6,6 +6,12 @@ const sponsors = [
     alt: "Intel",
     link: "https://www.intel.com/",
     height: "250px",
+  },
+  {
+    imageUrl: "/sponsors/jane_street.png",
+    alt: "Jane Street",
+    link: "https://www.janestreet.com/",
+    height: "200px",
   }
 ];
 
