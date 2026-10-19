@@ -12,7 +12,13 @@ const sponsors = [
     alt: "Jane Street",
     link: "https://www.janestreet.com/",
     height: "200px",
-  }
+  },
+  {
+    imageUrl: "/sponsors/xyz.png",
+    alt: ".xyz Domains",
+    link: "https://gen.xyz",
+    height: "100px",
+  },
 ];
 
 const partners = [];
