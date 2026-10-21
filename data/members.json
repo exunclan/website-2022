@@ -4,16 +4,26 @@
     "members": [
       {
         "name": "Anika Gupta",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Navika Yadav",
-        "role": "Member",
+        "role": "President",
         "image": ""
       },
       {
         "name": "Aditya Das",
+        "role": "Vice President",
+        "image": ""
+      },
+      {
+        "name": "Ayon Choudhury",
+        "role": "Director",
+        "image": ""
+      },
+      {
+        "name": "Jai Goel",
+        "role": "Honorary Chief Advisor",
+        "image": ""
+      },
+      {
+        "name": "Navika Yadav",
         "role": "Member",
         "image": ""
       },
@@ -39,16 +49,6 @@
       },
       {
         "name": "Akansh Rajan",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Ayon Choudhury",
-        "role": "Member",
-        "image": ""
-      },
-      {
-        "name": "Jai Goel",
         "role": "Member",
         "image": ""
       },
